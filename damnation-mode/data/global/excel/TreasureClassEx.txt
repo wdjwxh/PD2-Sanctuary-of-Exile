@@ -290,7 +290,7 @@ Act 5 (H) Magic A	4	82	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 5 (H) Magic B	4	83	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 5 (H) Magic C	4	85	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 1 Good	5	0	1						Jewelry A	60	Chipped Gem	48	wss	7	New orbs	2	Base Tier Essences	4														0
-Act 2 Good	5	12	1						Jewelry B	80	Chipped Gem	44	Flawed Gem	16	wss	8	New orbs	3	Base Tier Essences	5	Runes 1	32	Runes 2	32								0
+Act 2 Good	5	12	1						Jewelry B	80	Chipped Gem	44	Flawed Gem	16	wss	6	New orbs	3	Base Tier Essences	5												0
 Act 3 Good	5	18	1						Jewelry C	80	Chipped Gem	28	Flawed Gem	32	wss	9	Runes 3	37	Runes 4	38	Fate Card Normal	16	New orbs	4	Base Tier Essences	14						0
 Act 4 Good	5	26	1						Jewelry C	120	Normal Gem	22	Flawless Gem	56	Runes 5	86	Runes 6	43	wss	9	Fate Card Normal	20	New orbs	4	Base Tier Essences	28						0
 Act 5 Good	5	32	1						Jewelry C	120	Normal Gem	22	Flawless Gem	56	Runes 7	80	New orbs	5	wss	9	Fate Card Normal	20	Base Tier Essences	30								0
