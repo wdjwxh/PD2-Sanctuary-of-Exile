@@ -2660,9 +2660,6 @@ r18 downgrade ko -> 3 lum	0			100					2	"key,qty=1"	"r18,qty=1"						useitem				
 r19 downgrade fal -> 3 ko	0			100					2	"key,qty=1"	"r19,qty=1"						useitem																													"r18s,qty=3"																																																										0
 r20 downgrade lem -> 3 fal	0			100					2	"key,qty=1"	"r20,qty=1"						useitem																													"r19s,qty=3"																																																										0
 r21 downgrade pul -> 3 lem	0			100					2	"key,qty=1"	"r21,qty=1"						useitem																													"r20s,qty=3"																																																										0
-r22 downgrade um -> 1 pul	0			100					2	"key,qty=1"	"r22,qty=1"						useitem																													r21																																																										0
-r23 downgrade mal -> 1 um	0			100					2	"key,qty=1"	"r23,qty=1"						useitem																													r22																																																										0
-r24 downgrade ist -> 1 mal	0			100					2	"key,qty=1"	"r24,qty=1"						useitem																													r23																																																										0
 																																																																																																								0
 RUNE DOWNGRADING - stacked																																																																																																								0
 r02 downgrade eld -> 3 el	0			100					2	"key,qty=1"	"r02s,qty=1"						useitem																													"r01s,qty=3"																																																										0
@@ -2685,31 +2682,10 @@ r18 downgrade ko -> 3 lum	0			100					2	"key,qty=1"	"r18s,qty=1"						useitem			
 r19 downgrade fal -> 3 ko	0			100					2	"key,qty=1"	"r19s,qty=1"						useitem																													"r18s,qty=3"																																																										0
 r20 downgrade lem -> 3 fal	0			100					2	"key,qty=1"	"r20s,qty=1"						useitem																													"r19s,qty=3"																																																										0
 r21 downgrade pul -> 3 lem	0			100					2	"key,qty=1"	"r21s,qty=1"						useitem																													"r20s,qty=3"																																																										0
-r22 downgrade um -> 1 pul	0			100					2	"key,qty=1"	"r22s,qty=1"						useitem																													"r21s,qty=1"																																																										0
-r23 downgrade mal -> 1 um	0			100					2	"key,qty=1"	"r23s,qty=1"						useitem																													"r22s,qty=1"																																																										0
-r24 downgrade ist -> 1 mal	0			100					2	"key,qty=1"	"r24s,qty=1"						useitem																													"r23s,qty=1"																																																										0
 																																																																																																								0
 RUNE DOWNGRADING (High Runes) - non stacked																																																																																																								0
-r25 downgrade gul -> ist	0			100					2	"key,qty=1"	"r25,qty=1"						useitem																													r24																																																										0
-r26 downgrade vex -> gul	0			100					2	"key,qty=1"	"r26,qty=1"						useitem																													r25																																																										0
-r27 downgrade ohm -> vex	0			100					2	"key,qty=1"	"r27,qty=1"						useitem																													r26																																																										0
-r28 downgrade lo -> ohm	0			100					2	"key,qty=1"	"r28,qty=1"						useitem																													r27																																																										0
-r29 downgrade sur -> lo	0			100					2	"key,qty=1"	"r29,qty=1"						useitem																													r28																																																										0
-r30 downgrade ber -> sur	0			100					2	"key,qty=1"	"r30,qty=1"						useitem																													r29																																																										0
-r31 downgrade jah -> ber	0			100					2	ncoi,qty=1	"r31,qty=1"						r30																																																																																							0
-r32 downgrade cham -> jah	0			100					2	ncoi,qty=1	"r32,qty=1"						r31																																																																																							0
-r33 downgrade zod -> cham	0			100					2	ncoi,qty=1	"r33,qty=1"						r32																																																																																							0
 																																																																																																								0
 RUNE DOWNGRADING (High Runes) -  stacked																																																																																																								0
-r25 downgrade gul -> ist	0			100					2	"key,qty=1"	"r25s,qty=1"						useitem																													"r24s,qty=1"																																																										0
-r26 downgrade vex -> gul	0			100					2	"key,qty=1"	"r26s,qty=1"						useitem																													"r25s,qty=1"																																																										0
-r27 downgrade ohm -> vex	0			100					2	"key,qty=1"	"r27s,qty=1"						useitem																													"r26s,qty=1"																																																										0
-r28 downgrade lo -> ohm	0			100					2	"key,qty=1"	"r28s,qty=1"						useitem																													"r27s,qty=1"																																																										0
-r29 downgrade sur -> lo	0			100					2	"key,qty=1"	"r29s,qty=1"						useitem																													"r28s,qty=1"																																																										0
-r30 downgrade ber -> sur	0			100					2	"key,qty=1"	"r30s,qty=1"						useitem																													"r29s,qty=1"																																																										0
-r31 downgrade jah -> ber	0			100					2	ncoi,qty=1	"r31s,qty=1"						"r30s,qty=1"																																																																																							0
-r32 downgrade cham -> jah	0			100					2	ncoi,qty=1	"r32s,qty=1"						"r31s,qty=1"																																																																																							0
-r33 downgrade zod -> cham	0			100					2	ncoi,qty=1	"r33s,qty=1"						"r32s,qty=1"																																																																																							0
 																																																																																																								0
 DEMONIC CUBE ADDITIONAL RECIPES																																																																																																								0
 Reroll type of Regular Unique Jewel	0			100					3	jew,uni	ncoi,qty=1	imrn,qty=1					jew,uni			100																																																																																				0
@@ -7972,9 +7948,6 @@ r18 downgrade ko -> 3 lum	1			100					2	"key,qty=1"	"r18,qty=1"						useitem				
 r19 downgrade fal -> 3 ko	1			100					2	"key,qty=1"	"r19,qty=1"						useitem																													"r18s,qty=1"																																																										0
 r20 downgrade lem -> 3 fal	1			100					2	"key,qty=1"	"r20,qty=1"						useitem																													"r19s,qty=1"																																																										0
 r21 downgrade pul -> 3 lem	1			100					2	"key,qty=1"	"r21,qty=1"						useitem																													"r20s,qty=1"																																																										0
-r22 downgrade um -> 1 pul	0			100					2	"key,qty=1"	"r22,qty=1"						useitem																													r21																																																										0
-r23 downgrade mal -> 1 um	0			100					2	"key,qty=1"	"r23,qty=1"						useitem																													r22																																																										0
-r24 downgrade ist -> 1 mal	0			100					2	"key,qty=1"	"r24,qty=1"						useitem																													r23																																																										0
 																																																																																																								0
 RUNE DOWNGRADING - stacked																																																																																																								0
 r02 downgrade eld -> 3 el	1			100					2	"key,qty=1"	"r02s,qty=1"						useitem																													"r01s,qty=1"																																																										0
@@ -7997,29 +7970,8 @@ r18 downgrade ko -> 3 lum	1			100					2	"key,qty=1"	"r18s,qty=1"						useitem			
 r19 downgrade fal -> 3 ko	1			100					2	"key,qty=1"	"r19s,qty=1"						useitem																													"r18s,qty=1"																																																										0
 r20 downgrade lem -> 3 fal	1			100					2	"key,qty=1"	"r20s,qty=1"						useitem																													"r19s,qty=1"																																																										0
 r21 downgrade pul -> 3 lem	1			100					2	"key,qty=1"	"r21s,qty=1"						useitem																													"r20s,qty=1"																																																										0
-r22 downgrade um -> 1 pul	0			100					2	"key,qty=1"	"r22s,qty=1"						useitem																													"r21s,qty=1"																																																										0
-r23 downgrade mal -> 1 um	0			100					2	"key,qty=1"	"r23s,qty=1"						useitem																													"r22s,qty=1"																																																										0
-r24 downgrade ist -> 1 mal	0			100					2	"key,qty=1"	"r24s,qty=1"						useitem																													"r23s,qty=1"																																																										0
 																																																																																																								0
 RUNE DOWNGRADING (High Runes) - non stacked																																																																																																								0
-r25 downgrade gul -> ist	0			100					2	"key,qty=1"	"r25,qty=1"						useitem																													r24																																																										0
-r26 downgrade vex -> gul	0			100					2	"key,qty=1"	"r26,qty=1"						useitem																													r25																																																										0
-r27 downgrade ohm -> vex	0			100					2	"key,qty=1"	"r27,qty=1"						useitem																													r26																																																										0
-r28 downgrade lo -> ohm	0			100					2	"key,qty=1"	"r28,qty=1"						useitem																													r27																																																										0
-r29 downgrade sur -> lo	0			100					2	"key,qty=1"	"r29,qty=1"						useitem																													r28																																																										0
-r30 downgrade ber -> sur	0			100					2	"key,qty=1"	"r30,qty=1"						useitem																													r29																																																										0
-r31 downgrade jah -> ber	0			100					2	ncoi,qty=1	"r31,qty=1"						r30																																																																																							0
-r32 downgrade cham -> jah	0			100					2	ncoi,qty=1	"r32,qty=1"						r31																																																																																							0
-r33 downgrade zod -> cham	0			100					2	ncoi,qty=1	"r33,qty=1"						r32																																																																																							0
 																																																																																																								0
 RUNE DOWNGRADING (High Runes) -  stacked																																																																																																								0
-r25 downgrade gul -> ist	0			100					2	"key,qty=1"	"r25s,qty=1"						useitem																													"r24s,qty=1"																																																										0
-r26 downgrade vex -> gul	0			100					2	"key,qty=1"	"r26s,qty=1"						useitem																													"r25s,qty=1"																																																										0
-r27 downgrade ohm -> vex	0			100					2	"key,qty=1"	"r27s,qty=1"						useitem																													"r26s,qty=1"																																																										0
-r28 downgrade lo -> ohm	0			100					2	"key,qty=1"	"r28s,qty=1"						useitem																													"r27s,qty=1"																																																										0
-r29 downgrade sur -> lo	0			100					2	"key,qty=1"	"r29s,qty=1"						useitem																													"r28s,qty=1"																																																										0
-r30 downgrade ber -> sur	0			100					2	"key,qty=1"	"r30s,qty=1"						useitem																													"r29s,qty=1"																																																										0
-r31 downgrade jah -> ber	0			100					2	ncoi,qty=1	"r31s,qty=1"						"r30s,qty=1"																																																																																							0
-r32 downgrade cham -> jah	0			100					2	ncoi,qty=1	"r32s,qty=1"						"r31s,qty=1"																																																																																							0
-r33 downgrade zod -> cham	0			100					2	ncoi,qty=1	"r33s,qty=1"						"r32s,qty=1"																																																																																							0
 																																																																																																								0
