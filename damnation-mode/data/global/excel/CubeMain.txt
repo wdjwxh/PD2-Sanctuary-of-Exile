@@ -3027,41 +3027,41 @@ Widespread Destruction	1			100					2	Widespread Destruction	imrn,qty=1						Wide
 Akarats Rage	1			100					2	Akarats Rage	imrn,qty=1						Akarats Rage			100																																																																																				0
 																																																																																																								0
 MYTHICAL JEWEL ADDITIONAL RECIPES																																																																																																								0
-Disenchant Magic Mythical Jewel x1 [Reusable Skeleton Key]	1			100					2	rkey,qty=1	mjw,mag,qty=1						rkey,qty=1			100																										jewf,qty=5																																																										0
+Disenchant Magic Mythical Jewel x1 [Reusable Skeleton Key]	1			100					2	rkey	mjw,mag,qty=1						useitem			100																										jewf,qty=5																																																										0
 Disenchant Magic Mythical Jewel x1	1			100					2	mjw,mag,qty=1	key,qty=1						jewf,qty=5			100																																																																																				0
-Disenchant Magic Mythical Jewel x2 [Reusable Skeleton Key]	1			100					2	rkey,qty=1	mjw,mag,qty=2						rkey,qty=1			100																										jewf,qty=10																																																										0
+Disenchant Magic Mythical Jewel x2 [Reusable Skeleton Key]	1			100					2	rkey	mjw,mag,qty=2						useitem			100																										jewf,qty=10																																																										0
 Disenchant Magic Mythical Jewel x2	1			100					2	mjw,mag,qty=2	key,qty=1						jewf,qty=10			100																																																																																				0
-Disenchant Magic Mythical Jewel x3 [Reusable Skeleton Key]	1			100					2	rkey,qty=1	mjw,mag,qty=3						rkey,qty=1			100																										jewf,qty=15																																																										0
+Disenchant Magic Mythical Jewel x3 [Reusable Skeleton Key]	1			100					2	rkey	mjw,mag,qty=3						useitem			100																										jewf,qty=15																																																										0
 Disenchant Magic Mythical Jewel x3	1			100					2	mjw,mag,qty=3	key,qty=1						jewf,qty=15			100																																																																																				0
-Disenchant Magic Mythical Jewel x4 [Reusable Skeleton Key]	1			100					2	rkey,qty=1	mjw,mag,qty=4						rkey,qty=1			100																										jewf,qty=20																																																										0
+Disenchant Magic Mythical Jewel x4 [Reusable Skeleton Key]	1			100					2	rkey	mjw,mag,qty=4						useitem			100																										jewf,qty=20																																																										0
 Disenchant Magic Mythical Jewel x4	1			100					2	mjw,mag,qty=4	key,qty=1						jewf,qty=20			100																																																																																				0
-Disenchant Magic Mythical Jewel x5 [Reusable Skeleton Key]	1			100					2	rkey,qty=1	mjw,mag,qty=5						rkey,qty=1			100																										jewf,qty=25																																																										0
+Disenchant Magic Mythical Jewel x5 [Reusable Skeleton Key]	1			100					2	rkey	mjw,mag,qty=5						useitem			100																										jewf,qty=25																																																										0
 Disenchant Magic Mythical Jewel x5	1			100					2	mjw,mag,qty=5	key,qty=1						jewf,qty=25			100																																																																																				0
-Disenchant Magic Mythical Jewel x6 [Reusable Skeleton Key]	1			100					2	rkey,qty=1	mjw,mag,qty=6						rkey,qty=1			100																										jewf,qty=30																																																										0
+Disenchant Magic Mythical Jewel x6 [Reusable Skeleton Key]	1			100					2	rkey	mjw,mag,qty=6						useitem			100																										jewf,qty=30																																																										0
 Disenchant Magic Mythical Jewel x6	1			100					2	mjw,mag,qty=6	key,qty=1						jewf,qty=30			100																																																																																				0
-Disenchant Magic Mythical Jewel x7 [Reusable Skeleton Key]	1			100					2	rkey,qty=1	mjw,mag,qty=7						rkey,qty=1			100																										jewf,qty=35																																																										0
+Disenchant Magic Mythical Jewel x7 [Reusable Skeleton Key]	1			100					2	rkey	mjw,mag,qty=7						useitem			100																										jewf,qty=35																																																										0
 Disenchant Magic Mythical Jewel x7	1			100					2	mjw,mag,qty=7	key,qty=1						jewf,qty=35			100																																																																																				0
-Disenchant Magic Mythical Jewel x8 [Reusable Skeleton Key]	1			100					2	rkey,qty=1	mjw,mag,qty=8						rkey,qty=1			100																										jewf,qty=40																																																										0
+Disenchant Magic Mythical Jewel x8 [Reusable Skeleton Key]	1			100					2	rkey	mjw,mag,qty=8						useitem			100																										jewf,qty=40																																																										0
 Disenchant Magic Mythical Jewel x8	1			100					2	mjw,mag,qty=8	key,qty=1						jewf,qty=40			100																																																																																				0
-Disenchant Magic Mythical Jewel x9 [Reusable Skeleton Key]	1			100					2	rkey,qty=1	mjw,mag,qty=9						rkey,qty=1			100																										jewf,qty=45																																																										0
+Disenchant Magic Mythical Jewel x9 [Reusable Skeleton Key]	1			100					2	rkey	mjw,mag,qty=9						useitem			100																										jewf,qty=45																																																										0
 Disenchant Magic Mythical Jewel x9	1			100					2	mjw,mag,qty=9	key,qty=1						jewf,qty=45			100																																																																																				0
-Disenchant Magic Mythical Jewel x10 [Reusable Skeleton Key]	1			100					2	rkey,qty=1	mjw,mag,qty=10						rkey,qty=1			100																										jewf,qty=50																																																										0
+Disenchant Magic Mythical Jewel x10 [Reusable Skeleton Key]	1			100					2	rkey	mjw,mag,qty=10						useitem			100																										jewf,qty=50																																																										0
 Disenchant Magic Mythical Jewel x10	1			100					2	mjw,mag,qty=10	key,qty=1						jewf,qty=50			100																																																																																				0
 																																																																																																								0
-Disenchant Rare Mythical Jewel x1 [Reusable Skeleton Key]	1			100					2	rkey,qty=1	mjw,rar,qty=1						rkey,qty=1			100																										jewf,qty=10																																																										0
+Disenchant Rare Mythical Jewel x1 [Reusable Skeleton Key]	1			100					2	rkey	mjw,rar,qty=1						useitem			100																										jewf,qty=10																																																										0
 Disenchant Rare Mythical Jewel x1	1			100					2	mjw,rar,qty=1	key,qty=1						jewf,qty=10			100																																																																																				0
-Disenchant Rare Mythical Jewel x2 [Reusable Skeleton Key]	1			100					2	rkey,qty=1	mjw,rar,qty=2						rkey,qty=1			100																										jewf,qty=20																																																										0
+Disenchant Rare Mythical Jewel x2 [Reusable Skeleton Key]	1			100					2	rkey	mjw,rar,qty=2						useitem			100																										jewf,qty=20																																																										0
 Disenchant Rare Mythical Jewel x2	1			100					2	mjw,rar,qty=2	key,qty=1						jewf,qty=20			100																																																																																				0
-Disenchant Rare Mythical Jewel x3 [Reusable Skeleton Key]	1			100					2	rkey,qty=1	mjw,rar,qty=3						rkey,qty=1			100																										jewf,qty=30																																																										0
+Disenchant Rare Mythical Jewel x3 [Reusable Skeleton Key]	1			100					2	rkey	mjw,rar,qty=3						useitem			100																										jewf,qty=30																																																										0
 Disenchant Rare Mythical Jewel x3	1			100					2	mjw,rar,qty=3	key,qty=1						jewf,qty=30			100																																																																																				0
-Disenchant Rare Mythical Jewel x4 [Reusable Skeleton Key]	1			100					2	rkey,qty=1	mjw,rar,qty=4						rkey,qty=1			100																										jewf,qty=40																																																										0
+Disenchant Rare Mythical Jewel x4 [Reusable Skeleton Key]	1			100					2	rkey	mjw,rar,qty=4						useitem			100																										jewf,qty=40																																																										0
 Disenchant Rare Mythical Jewel x4	1			100					2	mjw,rar,qty=4	key,qty=1						jewf,qty=40			100																																																																																				0
-Disenchant Rare Mythical Jewel x5 [Reusable Skeleton Key]	1			100					2	rkey,qty=1	mjw,rar,qty=5						rkey,qty=1			100																										jewf,qty=50																																																										0
+Disenchant Rare Mythical Jewel x5 [Reusable Skeleton Key]	1			100					2	rkey	mjw,rar,qty=5						useitem			100																										jewf,qty=50																																																										0
 Disenchant Rare Mythical Jewel x5	1			100					2	mjw,rar,qty=5	key,qty=1						jewf,qty=50			100																																																																																				0
 																																																																																																								0
-Disenchant Unique Mythical Jewel x1 [Reusable Skeleton Key]	1			100					2	rkey,qty=1	mjw,uni,qty=1						rkey,qty=1			100																										jewf,qty=25																																																										0
+Disenchant Unique Mythical Jewel x1 [Reusable Skeleton Key]	1			100					2	rkey	mjw,uni,qty=1						useitem			100																										jewf,qty=25																																																										0
 Disenchant Unique Mythical Jewel x1	1			100					2	mjw,uni,qty=1	key,qty=1						jewf,qty=25			100																																																																																				0
-Disenchant Unique Mythical Jewel x2 [Reusable Skeleton Key]	1			100					2	rkey,qty=1	mjw,uni,qty=2						rkey,qty=1			100																										jewf,qty=50																																																										0
+Disenchant Unique Mythical Jewel x2 [Reusable Skeleton Key]	1			100					2	rkey	mjw,uni,qty=2						useitem			100																										jewf,qty=50																																																										0
 Disenchant Unique Mythical Jewel x2	1			100					2	mjw,uni,qty=2	key,qty=1						jewf,qty=50			100																																																																																				0
 																																																																																																								0
 SACRED ORBS - HELMS																																																																																																								0
@@ -7530,36 +7530,36 @@ THE TAMING																																																																						
 Make the taming	1			100					3	Baals Pass	Baals Respite	Baals Grip					The Taming	99																																																																																						0
 																																																																																																								0
 DAMNATION MODE ONLY CHANGES																																																																																																								0
-Disenchant unique into chance shards [Reusable Skeleton Key]	1			100					2	rkey,qty=1	armo,uni						rkey,qty=1																													oros,qty=1																																																										0
+Disenchant unique into chance shards [Reusable Skeleton Key]	1			100					2	rkey	armo,uni						useitem																													oros,qty=1																																																										0
 Disenchant unique into chance shards	1			100					2	armo,uni	key,qty=1						oros,qty=1																																																																																							0
-Disenchant unique into chance shards [Reusable Skeleton Key]	1			100					2	rkey,qty=1	weap,uni						rkey,qty=1																													oros,qty=1																																																										0
+Disenchant unique into chance shards [Reusable Skeleton Key]	1			100					2	rkey	weap,uni						useitem																													oros,qty=1																																																										0
 Disenchant unique into chance shards	1			100					2	weap,uni	key,qty=1						oros,qty=1																																																																																							0
-Disenchant unique into chance shards [Reusable Skeleton Key]	1			100					2	rkey,qty=1	amu,uni						rkey,qty=1																													oros,qty=1																																																										0
+Disenchant unique into chance shards [Reusable Skeleton Key]	1			100					2	rkey	amu,uni						useitem																													oros,qty=1																																																										0
 Disenchant unique into chance shards	1			100					2	amu,uni	key,qty=1						oros,qty=1																																																																																							0
-Disenchant unique into chance shards [Reusable Skeleton Key]	1			100					2	rkey,qty=1	ring,uni						rkey,qty=1																													oros,qty=1																																																										0
+Disenchant unique into chance shards [Reusable Skeleton Key]	1			100					2	rkey	ring,uni						useitem																													oros,qty=1																																																										0
 Disenchant unique into chance shards	1			100					2	ring,uni	key,qty=1						oros,qty=1																																																																																							0
-Disenchant unique into chance shards [Reusable Skeleton Key]	1			100					3	rkey,qty=1	mjw,uni	ncoi,qty=1					rkey,qty=1																													oros,qty=1																																																										0
+Disenchant unique into chance shards [Reusable Skeleton Key]	1			100					3	rkey	mjw,uni	ncoi,qty=1					useitem																													oros,qty=1																																																										0
 Disenchant unique into chance shards	1			100					3	mjw,uni	key,qty=1	ncoi,qty=1					oros,qty=1																																																																																							0
-Disenchant unique into chance shards [Reusable Skeleton Key]	1			100					3	rkey,qty=1	jew,uni	ncoi,qty=1					rkey,qty=1																													oros,qty=1																																																										0
+Disenchant unique into chance shards [Reusable Skeleton Key]	1			100					3	rkey	jew,uni	ncoi,qty=1					useitem																													oros,qty=1																																																										0
 Disenchant unique into chance shards	1			100					3	jew,uni	key,qty=1	ncoi,qty=1					oros,qty=1																																																																																							0
-Disenchant unique into chance shards [Reusable Skeleton Key]	1			100					2	rkey,qty=1	misl,uni						rkey,qty=1																													oros,qty=1																																																										0
+Disenchant unique into chance shards [Reusable Skeleton Key]	1			100					2	rkey	misl,uni						useitem																													oros,qty=1																																																										0
 Disenchant unique into chance shards	1			100					2	misl,uni	key,qty=1						oros,qty=1																																																																																							0
-Disenchant unique into chance shards [Reusable Skeleton Key]	1			100					2	rkey,qty=1	cm4,uni						rkey,qty=1																													oros,qty=1																																																										0
+Disenchant unique into chance shards [Reusable Skeleton Key]	1			100					2	rkey	cm4,uni						useitem																													oros,qty=1																																																										0
 Disenchant unique into chance shards	1			100					2	cm4,uni	key,qty=1						oros,qty=1																																																																																							0
-Disenchant unique into chance shards [Reusable Skeleton Key]	1			100					2	rkey,qty=1	cm3,uni						rkey,qty=1																													oros,qty=1																																																										0
+Disenchant unique into chance shards [Reusable Skeleton Key]	1			100					2	rkey	cm3,uni						useitem																													oros,qty=1																																																										0
 Disenchant unique into chance shards	1			100					2	cm3,uni	key,qty=1						oros,qty=1																																																																																							0
-Disenchant unique into chance shards [Reusable Skeleton Key]	1			100					2	rkey,qty=1	cm2,uni						rkey,qty=1																													oros,qty=1																																																										0
+Disenchant unique into chance shards [Reusable Skeleton Key]	1			100					2	rkey	cm2,uni						useitem																													oros,qty=1																																																										0
 Disenchant unique into chance shards	1			100					2	cm2,uni	key,qty=1						oros,qty=1																																																																																							0
-Disenchant unique into chance shards [Reusable Skeleton Key]	1			100					2	rkey,qty=1	cm1,uni						rkey,qty=1																													oros,qty=1																																																										0
+Disenchant unique into chance shards [Reusable Skeleton Key]	1			100					2	rkey	cm1,uni						useitem																													oros,qty=1																																																										0
 Disenchant unique into chance shards	1			100					2	cm1,uni	key,qty=1						oros,qty=1																																																																																							0
 																																																																																																								0
-Disenchant set into exalted shards [Reusable Skeleton Key]	1			100					2	rkey,qty=1	armo,set						rkey,qty=1																													exos,qty=1																																																										0
+Disenchant set into exalted shards [Reusable Skeleton Key]	1			100					2	rkey	armo,set						useitem																													exos,qty=1																																																										0
 Disenchant set into exalted shards	1			100					2	armo,set	key,qty=1						exos,qty=1																																																																																							0
-Disenchant set into exalted shards [Reusable Skeleton Key]	1			100					2	rkey,qty=1	weap,set						rkey,qty=1																													exos,qty=1																																																										0
+Disenchant set into exalted shards [Reusable Skeleton Key]	1			100					2	rkey	weap,set						useitem																													exos,qty=1																																																										0
 Disenchant set into exalted shards	1			100					2	weap,set	key,qty=1						exos,qty=1																																																																																							0
-Disenchant set into exalted shards [Reusable Skeleton Key]	1			100					2	rkey,qty=1	amu,set						rkey,qty=1																													exos,qty=1																																																										0
+Disenchant set into exalted shards [Reusable Skeleton Key]	1			100					2	rkey	amu,set						useitem																													exos,qty=1																																																										0
 Disenchant set into exalted shards	1			100					2	amu,set	key,qty=1						exos,qty=1																																																																																							0
-Disenchant set into exalted shards [Reusable Skeleton Key]	1			100					2	rkey,qty=1	ring,set						rkey,qty=1																													exos,qty=1																																																										0
+Disenchant set into exalted shards [Reusable Skeleton Key]	1			100					2	rkey	ring,set						useitem																													exos,qty=1																																																										0
 Disenchant set into exalted shards	1			100					2	ring,set	key,qty=1						exos,qty=1																																																																																							0
 																																																																																																								0
 ORB OF CHANCE - ROLL																																																																																																								0

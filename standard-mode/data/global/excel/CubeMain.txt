@@ -3072,41 +3072,41 @@ Widespread Destruction	1			100					2	Widespread Destruction	imrn,qty=1						Wide
 Akarats Rage	1			100					2	Akarats Rage	imrn,qty=1						Akarats Rage			100																																																																																				0
 																																																																																																								0
 MYTHICAL JEWEL ADDITIONAL RECIPES																																																																																																								0
-Disenchant Magic Mythical Jewel x1 [Reusable Skeleton Key]	1			100					2	rkey,qty=1	mjw,mag,qty=1						rkey,qty=1			100																										jewf,qty=5																																																										0
+Disenchant Magic Mythical Jewel x1 [Reusable Skeleton Key]	1			100					2	rkey	mjw,mag,qty=1						useitem			100																										jewf,qty=5																																																										0
 Disenchant Magic Mythical Jewel x1	1			100					2	mjw,mag,qty=1	key,qty=1						jewf,qty=5			100																																																																																				0
-Disenchant Magic Mythical Jewel x2 [Reusable Skeleton Key]	1			100					2	rkey,qty=1	mjw,mag,qty=2						rkey,qty=1			100																										jewf,qty=10																																																										0
+Disenchant Magic Mythical Jewel x2 [Reusable Skeleton Key]	1			100					2	rkey	mjw,mag,qty=2						useitem			100																										jewf,qty=10																																																										0
 Disenchant Magic Mythical Jewel x2	1			100					2	mjw,mag,qty=2	key,qty=1						jewf,qty=10			100																																																																																				0
-Disenchant Magic Mythical Jewel x3 [Reusable Skeleton Key]	1			100					2	rkey,qty=1	mjw,mag,qty=3						rkey,qty=1			100																										jewf,qty=15																																																										0
+Disenchant Magic Mythical Jewel x3 [Reusable Skeleton Key]	1			100					2	rkey	mjw,mag,qty=3						useitem			100																										jewf,qty=15																																																										0
 Disenchant Magic Mythical Jewel x3	1			100					2	mjw,mag,qty=3	key,qty=1						jewf,qty=15			100																																																																																				0
-Disenchant Magic Mythical Jewel x4 [Reusable Skeleton Key]	1			100					2	rkey,qty=1	mjw,mag,qty=4						rkey,qty=1			100																										jewf,qty=20																																																										0
+Disenchant Magic Mythical Jewel x4 [Reusable Skeleton Key]	1			100					2	rkey	mjw,mag,qty=4						useitem			100																										jewf,qty=20																																																										0
 Disenchant Magic Mythical Jewel x4	1			100					2	mjw,mag,qty=4	key,qty=1						jewf,qty=20			100																																																																																				0
-Disenchant Magic Mythical Jewel x5 [Reusable Skeleton Key]	1			100					2	rkey,qty=1	mjw,mag,qty=5						rkey,qty=1			100																										jewf,qty=25																																																										0
+Disenchant Magic Mythical Jewel x5 [Reusable Skeleton Key]	1			100					2	rkey	mjw,mag,qty=5						useitem			100																										jewf,qty=25																																																										0
 Disenchant Magic Mythical Jewel x5	1			100					2	mjw,mag,qty=5	key,qty=1						jewf,qty=25			100																																																																																				0
-Disenchant Magic Mythical Jewel x6 [Reusable Skeleton Key]	1			100					2	rkey,qty=1	mjw,mag,qty=6						rkey,qty=1			100																										jewf,qty=30																																																										0
+Disenchant Magic Mythical Jewel x6 [Reusable Skeleton Key]	1			100					2	rkey	mjw,mag,qty=6						useitem			100																										jewf,qty=30																																																										0
 Disenchant Magic Mythical Jewel x6	1			100					2	mjw,mag,qty=6	key,qty=1						jewf,qty=30			100																																																																																				0
-Disenchant Magic Mythical Jewel x7 [Reusable Skeleton Key]	1			100					2	rkey,qty=1	mjw,mag,qty=7						rkey,qty=1			100																										jewf,qty=35																																																										0
+Disenchant Magic Mythical Jewel x7 [Reusable Skeleton Key]	1			100					2	rkey	mjw,mag,qty=7						useitem			100																										jewf,qty=35																																																										0
 Disenchant Magic Mythical Jewel x7	1			100					2	mjw,mag,qty=7	key,qty=1						jewf,qty=35			100																																																																																				0
-Disenchant Magic Mythical Jewel x8 [Reusable Skeleton Key]	1			100					2	rkey,qty=1	mjw,mag,qty=8						rkey,qty=1			100																										jewf,qty=40																																																										0
+Disenchant Magic Mythical Jewel x8 [Reusable Skeleton Key]	1			100					2	rkey	mjw,mag,qty=8						useitem			100																										jewf,qty=40																																																										0
 Disenchant Magic Mythical Jewel x8	1			100					2	mjw,mag,qty=8	key,qty=1						jewf,qty=40			100																																																																																				0
-Disenchant Magic Mythical Jewel x9 [Reusable Skeleton Key]	1			100					2	rkey,qty=1	mjw,mag,qty=9						rkey,qty=1			100																										jewf,qty=45																																																										0
+Disenchant Magic Mythical Jewel x9 [Reusable Skeleton Key]	1			100					2	rkey	mjw,mag,qty=9						useitem			100																										jewf,qty=45																																																										0
 Disenchant Magic Mythical Jewel x9	1			100					2	mjw,mag,qty=9	key,qty=1						jewf,qty=45			100																																																																																				0
-Disenchant Magic Mythical Jewel x10 [Reusable Skeleton Key]	1			100					2	rkey,qty=1	mjw,mag,qty=10						rkey,qty=1			100																										jewf,qty=50																																																										0
+Disenchant Magic Mythical Jewel x10 [Reusable Skeleton Key]	1			100					2	rkey	mjw,mag,qty=10						useitem			100																										jewf,qty=50																																																										0
 Disenchant Magic Mythical Jewel x10	1			100					2	mjw,mag,qty=10	key,qty=1						jewf,qty=50			100																																																																																				0
 																																																																																																								0
-Disenchant Rare Mythical Jewel x1 [Reusable Skeleton Key]	1			100					2	rkey,qty=1	mjw,rar,qty=1						rkey,qty=1			100																										jewf,qty=10																																																										0
+Disenchant Rare Mythical Jewel x1 [Reusable Skeleton Key]	1			100					2	rkey	mjw,rar,qty=1						useitem			100																										jewf,qty=10																																																										0
 Disenchant Rare Mythical Jewel x1	1			100					2	mjw,rar,qty=1	key,qty=1						jewf,qty=10			100																																																																																				0
-Disenchant Rare Mythical Jewel x2 [Reusable Skeleton Key]	1			100					2	rkey,qty=1	mjw,rar,qty=2						rkey,qty=1			100																										jewf,qty=20																																																										0
+Disenchant Rare Mythical Jewel x2 [Reusable Skeleton Key]	1			100					2	rkey	mjw,rar,qty=2						useitem			100																										jewf,qty=20																																																										0
 Disenchant Rare Mythical Jewel x2	1			100					2	mjw,rar,qty=2	key,qty=1						jewf,qty=20			100																																																																																				0
-Disenchant Rare Mythical Jewel x3 [Reusable Skeleton Key]	1			100					2	rkey,qty=1	mjw,rar,qty=3						rkey,qty=1			100																										jewf,qty=30																																																										0
+Disenchant Rare Mythical Jewel x3 [Reusable Skeleton Key]	1			100					2	rkey	mjw,rar,qty=3						useitem			100																										jewf,qty=30																																																										0
 Disenchant Rare Mythical Jewel x3	1			100					2	mjw,rar,qty=3	key,qty=1						jewf,qty=30			100																																																																																				0
-Disenchant Rare Mythical Jewel x4 [Reusable Skeleton Key]	1			100					2	rkey,qty=1	mjw,rar,qty=4						rkey,qty=1			100																										jewf,qty=40																																																										0
+Disenchant Rare Mythical Jewel x4 [Reusable Skeleton Key]	1			100					2	rkey	mjw,rar,qty=4						useitem			100																										jewf,qty=40																																																										0
 Disenchant Rare Mythical Jewel x4	1			100					2	mjw,rar,qty=4	key,qty=1						jewf,qty=40			100																																																																																				0
-Disenchant Rare Mythical Jewel x5 [Reusable Skeleton Key]	1			100					2	rkey,qty=1	mjw,rar,qty=5						rkey,qty=1			100																										jewf,qty=50																																																										0
+Disenchant Rare Mythical Jewel x5 [Reusable Skeleton Key]	1			100					2	rkey	mjw,rar,qty=5						useitem			100																										jewf,qty=50																																																										0
 Disenchant Rare Mythical Jewel x5	1			100					2	mjw,rar,qty=5	key,qty=1						jewf,qty=50			100																																																																																				0
 																																																																																																								0
-Disenchant Unique Mythical Jewel x1 [Reusable Skeleton Key]	1			100					2	rkey,qty=1	mjw,uni,qty=1						rkey,qty=1			100																										jewf,qty=25																																																										0
+Disenchant Unique Mythical Jewel x1 [Reusable Skeleton Key]	1			100					2	rkey	mjw,uni,qty=1						useitem			100																										jewf,qty=25																																																										0
 Disenchant Unique Mythical Jewel x1	1			100					2	mjw,uni,qty=1	key,qty=1						jewf,qty=25			100																																																																																				0
-Disenchant Unique Mythical Jewel x2 [Reusable Skeleton Key]	1			100					2	rkey,qty=1	mjw,uni,qty=2						rkey,qty=1			100																										jewf,qty=50																																																										0
+Disenchant Unique Mythical Jewel x2 [Reusable Skeleton Key]	1			100					2	rkey	mjw,uni,qty=2						useitem			100																										jewf,qty=50																																																										0
 Disenchant Unique Mythical Jewel x2	1			100					2	mjw,uni,qty=2	key,qty=1						jewf,qty=50			100																																																																																				0
 																																																																																																								0
 SACRED ORBS - HELMS																																																																																																								0
