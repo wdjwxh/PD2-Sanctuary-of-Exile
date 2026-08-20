@@ -68,8 +68,8 @@ Dummy																																0
 Dummy																																0
 Dummy																																0
 Fate Card fallen			1					0	Fate Card Tier 1	2	Fate Card Tier 2 T1T2	12	Fate Card Tier 3	18	Fate Card Tier 4	30	Fate Card Tier 5	38														0
-Fate Card Normal			1					0	Fate Card Tier 5	1																						0
-Fate Card Nightmare			1					0	Fate Card Tier 4	40	Fate Card Tier 5	60																				0
+Fate Card Normal			3					0	Fate Card Tier 5	1																						0
+Fate Card Nightmare			3					0	Fate Card Tier 4	40	Fate Card Tier 5	60																				0
 Fate Card A45 Hell			1					0	Fate Card Tier 3	27	Fate Card Tier 4	35	Fate Card Tier 5	38																		0
 Fate Card World Drop Hell			1					0	Fate Card Tier 4	40	Fate Card Tier 5	60																				0
 Fate Card T1 Map			1					0	Fate Card Tier 2 T1T2	10	Fate Card Tier 3	20	Fate Card Tier 4	30	Fate Card Tier 5	40																0
@@ -289,21 +289,21 @@ Act 4 (H) Magic B	4	80	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 5 (H) Magic A	4	82	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 5 (H) Magic B	4	83	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 5 (H) Magic C	4	85	1						tsc	2	isc	4	mp4	2	mp5	4																0
-Act 1 Good	5	0	1						Jewelry A	60	Chipped Gem	48	wss	7	New orbs	2	Base Tier Essences	4														0
-Act 2 Good	5	12	1						Jewelry B	80	Chipped Gem	44	Flawed Gem	16	wss	6	New orbs	3	Base Tier Essences	5												0
-Act 3 Good	5	18	1						Jewelry C	80	Chipped Gem	28	Flawed Gem	32	wss	9	Runes 3	37	Runes 4	38	Fate Card Normal	16	New orbs	4	Base Tier Essences	14						0
-Act 4 Good	5	26	1						Jewelry C	120	Normal Gem	22	Flawless Gem	56	Runes 5	86	Runes 6	43	wss	9	Fate Card Normal	20	New orbs	4	Base Tier Essences	28						0
-Act 5 Good	5	32	1						Jewelry C	120	Normal Gem	22	Flawless Gem	56	Runes 7	80	New orbs	5	wss	9	Fate Card Normal	20	Base Tier Essences	30								0
-Act 1 (N) Good	5	38	1						Jewelry C	70	Normal Gem	10	Flawless Gem	28	Runes 8	44	New orbs	6	wss	19	Fate Card Nightmare	10	Base Tier Essences	16								0
-Act 2 (N) Good	5	42	1						Jewelry C	70	Normal Gem	10	Flawless Gem	28	Runes 9	44	New orbs	6	wss	19	Fate Card Nightmare	10	Base Tier Essences	16								0
-Act 3 (N) Good	5	46	1						Jewelry C	70	Normal Gem	10	Flawless Gem	28	Runes 10	44	New orbs	6	wss	19	Fate Card Nightmare	10	Base Tier Essences	16								0
-Act 4 (N) Good	5	51	1						Jewelry C	70	Normal Gem	10	Flawless Gem	28	Runes 11	44	New orbs	6	wss	19	Fate Card Nightmare	10	Base Tier Essences	16								0
-Act 5 (N) Good	5	57	1						Jewelry C	70	Normal Gem	10	Flawless Gem	28	Runes 12 equiv	44	New orbs	6	wss	19	Fate Card Nightmare	10	Base Tier Essences	16								0
-Act 1 (H) Good	29	66	1						Jewelry C	140	Normal Gem	24	Flawless Gem	50	Perfect Gem	6	Runes 13 equiv	85	Map Tier 1	3	New orbs	6	wss	36	Fate Card World Drop Hell	24	Base Tier Essences	26				0
-Act 2 (H) Good	29	72	1						Jewelry C	140	Normal Gem	24	Flawless Gem	50	Perfect Gem	6	Runes 14 equiv	85	Map Tier 1	3	New orbs	6	wss	36	Fate Card World Drop Hell	24	Base Tier Essences	26				0
-Act 3 (H) Good	29	78	1						Jewelry C	140	Normal Gem	24	Flawless Gem	50	Perfect Gem	6	Runes 15 equiv	85	Map Tier 1	3	New orbs	6	wss	36	Fate Card World Drop Hell	24	Base Tier Essences	26				0
-Act 4 (H) Good	29	82	1						Jewelry C	140	Normal Gem	24	Flawless Gem	50	Perfect Gem	6	Runes 16 equiv	86	Map Tier 1	3	New orbs	6	wss	37	Fate Card A45 Hell	26	Base Tier Essences	28				0
-Act 5 (H) Good	29	85	1						Jewelry C	140	Normal Gem	24	Flawless Gem	50	Perfect Gem	6	Runes 17 equiv	86	Map Tier 1	3	New orbs	6	wss	37	Fate Card A45 Hell	26	Base Tier Essences	28				0
+Act 1 Good	5	0	1						Jewelry A	60	Chipped Gem	48	wss	4	New orbs	2	Base Tier Essences	4														0
+Act 2 Good	5	12	1						Jewelry B	80	Chipped Gem	44	Flawed Gem	16	wss	4	New orbs	3	Base Tier Essences	5												0
+Act 3 Good	5	18	1						Jewelry C	80	Chipped Gem	28	Flawed Gem	32	wss	4	Runes 3	12	Runes 4	12	Fate Card Normal	16	New orbs	4	Base Tier Essences	14						0
+Act 4 Good	5	26	1						Jewelry C	100	Normal Gem	22	Flawless Gem	56	Runes 5	28	Runes 6	14	wss	8	Fate Card Normal	20	New orbs	4	Base Tier Essences	28						0
+Act 5 Good	5	32	1						Jewelry C	100	Normal Gem	22	Flawless Gem	56	Runes 7	28	New orbs	5	wss	8	Fate Card Normal	20	Base Tier Essences	30								0
+Act 1 (N) Good	5	38	1						Jewelry C	60	Normal Gem	10	Flawless Gem	28	Runes 8	14	New orbs	6	wss	8	Fate Card Nightmare	10	Base Tier Essences	16								0
+Act 2 (N) Good	5	42	1						Jewelry C	60	Normal Gem	10	Flawless Gem	28	Runes 9	14	New orbs	6	wss	8	Fate Card Nightmare	10	Base Tier Essences	16								0
+Act 3 (N) Good	5	46	1						Jewelry C	60	Normal Gem	10	Flawless Gem	28	Runes 10	14	New orbs	6	wss	8	Fate Card Nightmare	10	Base Tier Essences	16								0
+Act 4 (N) Good	5	51	1						Jewelry C	60	Normal Gem	10	Flawless Gem	28	Runes 11	14	New orbs	6	wss	8	Fate Card Nightmare	10	Base Tier Essences	16								0
+Act 5 (N) Good	5	57	1						Jewelry C	60	Normal Gem	10	Flawless Gem	28	Runes 12 equiv	14	New orbs	6	wss	8	Fate Card Nightmare	10	Base Tier Essences	16								0
+Act 1 (H) Good	29	66	1						Jewelry C	120	Normal Gem	24	Flawless Gem	50	Perfect Gem	6	Runes 13 equiv	28	Map Tier 1	4	New orbs	6	wss	8	Fate Card World Drop Hell	24	Base Tier Essences	26				0
+Act 2 (H) Good	29	72	1						Jewelry C	120	Normal Gem	24	Flawless Gem	50	Perfect Gem	6	Runes 14 equiv	28	Map Tier 1	4	New orbs	6	wss	8	Fate Card World Drop Hell	24	Base Tier Essences	26				0
+Act 3 (H) Good	29	78	1						Jewelry C	120	Normal Gem	24	Flawless Gem	50	Perfect Gem	6	Runes 15 equiv	28	Map Tier 1	4	New orbs	6	wss	8	Fate Card World Drop Hell	24	Base Tier Essences	26				0
+Act 4 (H) Good	29	82	1						Jewelry C	120	Normal Gem	24	Flawless Gem	50	Perfect Gem	6	Runes 16 equiv	28	Map Tier 1	4	New orbs	6	wss	8	Fate Card A45 Hell	26	Base Tier Essences	28				0
+Act 5 (H) Good	29	85	1						Jewelry C	120	Normal Gem	24	Flawless Gem	50	Perfect Gem	6	Runes 17 equiv	28	Map Tier 1	4	New orbs	6	wss	8	Fate Card A45 Hell	26	Base Tier Essences	28				0
 Map Good t1	30	87	1						Jewelry C	140	Flawless Gem	44	Runes 17 equiv	28	T1 Map Drop	16	New orbs T1	6	Map currency T1	24	Mythic or Charms	5	Fate Card T1 Map	24	Essences T1 Map	28	Hatred Orbs T1 Map	12				0
 Map Good t2	31	88	1						Jewelry C	140	Flawless Gem	41	Runes 17 equiv	28	T2 Map Drop	18	New orbs T2	6	Map currency T2	25	Mythic or Charms	8	Fate Card T2 Map	26	Essences T2 Map	30	Hatred Orbs T2 Map	13				0
 Map Good t3	32	89	1						Jewelry C	140	Flawless Gem	39	Runes 17 equiv	28	T3 Map Drop	20	New orbs T3	7	Map currency T3	28	Mythic or Charms	9	Fate Card T3 Map	28	Essences T3 Map	32	Hatred Orbs T3 Map	14				0
@@ -1161,10 +1161,10 @@ Runes 17 terror			1						r33s	1	Runes 16 terror	1034																				0
 Terror currency		87	1					0	csor	22	ooal	33	etor	1																		0
 Terror scarab		87	1					0	scnm	2	scas	2	sccn	1																		0
 Terror chisel		87	1					0	ccsa	2	ccpr	2																				0
-Opulence Terror T1		87	2					0	Terror currency	1	Terror chisel	2	Terror scarab	2																		0
-Opulence Terror T2		88	2					0	Terror currency	1	Terror chisel	2	Terror scarab	2																		0
-Opulence Terror T3		89	3					0	Terror currency	1	Terror chisel	2	Terror scarab	2																		0
-Opulence Terror T4		90	4					0	Terror currency	1	Terror chisel	2	Terror scarab	2																		0
+Opulence Terror T1		87	1					0	Terror currency	1	Terror chisel	2	Terror scarab	2																		0
+Opulence Terror T2		88	2					1	Terror currency	1	Terror chisel	2	Terror scarab	2																		0
+Opulence Terror T3		89	3					1	Terror currency	1	Terror chisel	2	Terror scarab	2																		0
+Opulence Terror T4		90	4					1	Terror currency	1	Terror chisel	2	Terror scarab	2																		0
 Ethereal Terror T1		87	1					1	Runes 17 terror	1																						0
 Ethereal Terror T2		88	2					2	Runes 17 terror	1																						0
 Ethereal Terror T3		89	1					0	Runes 17 terror	1																						0
