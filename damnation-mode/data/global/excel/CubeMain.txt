@@ -4527,7 +4527,7 @@ Demonic Cube (5% chance)	0			100	16	361	28324		2	hffd	hfcr,qty=25						imrn,qty=
 Larzuk's Puzzlebox (5% chance)	0			100	16	361	29962		2	hffd	hfcr,qty=25						lbox,qty=1																													hffd																																																										0
 Orb of Extraction (5% chance)	0			100	16	361	31600		2	hffd	hfcr,qty=25						ooe,qty=1																													hffd																																																										0
 Divine Orb (3.5% chance)	0			100	16	361	32746		2	hffd	hfcr,qty=25						dvo,qty=1																													hffd																																																										0
-Eternal Orb (0,05% chance)	0			100	16	361	32766		2	hffd	hfcr,qty=25						eto,qty=1																													hffd																																																										0
+Eternal Orb (0,05% chance)	0			100	16	361	32766		2	hffd	hfcr,qty=25						etor,qty=1																													hffd																																																										0
 																																																																																																								0
 																																																																																																								0
 ASCENDANCIES																																																																																																								0
@@ -7852,7 +7852,7 @@ Chaos Orb (5% chance)	1			100	16	361	29634		2	hffd	hfcr,qty=25						csor,qty=1		
 Demonic Cube (4% chance)	1			100	16	361	30944		2	hffd	hfcr,qty=25						imrn,qty=1																													hffd																																																										0
 Larzuk's Puzzlebox (3% chance)	1			100	16	361	31927		2	hffd	hfcr,qty=25						lbox,qty=1																													hffd																																																										0
 Orb of Extraction (2.95% chance)	1			100	16	361	32746		2	hffd	hfcr,qty=25						ooe,qty=1																													hffd																																																										0
-Eternal Orb (0,05% chance)	1			100	16	361	32766		2	hffd	hfcr,qty=25						eto,qty=1																													hffd																																																										0
+Eternal Orb (0,05% chance)	1			100	16	361	32766		2	hffd	hfcr,qty=25						etor,qty=1																													hffd																																																										0
 																																																																																																								0
 CREATE ARMAGEDDON BLADE																																																																																																								0
 Create Armageddon Blade	1			100					3	7cr	oroc,qty=5	ncoi,qty=1					Arma Blade Replica	99																																																																																						0
