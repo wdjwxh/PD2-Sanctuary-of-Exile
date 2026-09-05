@@ -253,3 +253,4 @@ manastorm_passive	250					1				1																																																
 frailty	251					1				1																																		desolation_front	desolation_back																		paladin_aura_purification								0
 weapon_slot_aura	252					1				1																																																													0
 reinforce	253																																											shrine_armor	shrine_shimmer01																										0
+soe_lazarus_honor	254					1																																						aura_magicgoldfind																											0
