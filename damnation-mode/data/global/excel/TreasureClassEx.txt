@@ -1185,7 +1185,7 @@ Lazarus Uniq			1					0	Mark of Fate	3	Temporalis	4	Indigon	6	Tides	8	Sanctuarys 
 UberLazarus			-3					0	Lazarus Uniq	1	Lazarus Card	1	Ascendancy Tier 4	1																		0
 Haphesto Quest Items (H)			5	800	800	900	1024	3	"gld,mul=2048"	340	Act 5 (H) Equip A	461	Act 5 (H) Junk	121	Act 5 (H) Good	70																0
 Haphesto Quest (H)			-2						hffd	1	Haphesto Quest Items (H)	1																				0
-SOE Story Haphesto (H)			-2						Haphesto (H)	1	hffd	1																				0
+SOE Story Haphesto (H)			-2						hffd	1	Haphesto (H)	1																				0
 BELOW ADD OR REMOVE ROW																																0
 Larzuk Puzzlebox N HAS TO BE ON																																0
 ROW NUMBER 1762 OR EVERYTHING																																0
