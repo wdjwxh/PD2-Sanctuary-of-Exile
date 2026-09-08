@@ -4017,49 +4017,49 @@ Lazarus access sigil	1			100					4	sfoa,qty=1	sfod,qty=1	sfob,qty=1	sfor,qty=1		
 																																																																																																								0
 #### INFERNAL KILN #####																																																																																																								0
 RE-ROLL HATE ORB TYPE - ROLL																																																																																																								0
-Hatred Orb of Equipment (25% occurence rate)	1	2		100	18	361	0		3	hffd	hor1,qty=1	hfcr,qty=25					useitem			100	corruptnum	100		0	99																					hor1,qty=1																													hfcr,qty=26																													0
-Hatred Orb of Accessories (21% occurence rate)	1	2		100	18	361	0		3	hffd	hor2,qty=1	hfcr,qty=25					useitem			100	corruptnum	100		0	99																					hor2,qty=1																													hfcr,qty=26																													0
-Hatred Orb of Essences (17% occurence rate)	1	2		100	18	361	0		3	hffd	hor3,qty=1	hfcr,qty=25					useitem			100	corruptnum	100		0	99																					hor3,qty=1																													hfcr,qty=26																													0
-Hatred Orb of Fate Cards (15% occurence rate)	1	2		100	18	361	0		3	hffd	hor4,qty=1	hfcr,qty=25					useitem			100	corruptnum	100		0	99																					hor4,qty=1																													hfcr,qty=26																													0
-Hatred Orb of Runes (12% occurence rate)	1	2		100	18	361	0		3	hffd	hor5,qty=1	hfcr,qty=25					useitem			100	corruptnum	100		0	99																					hor5,qty=1																													hfcr,qty=26																													0
-Hatred Orb of Currency (10% occurence rate)	1	2		100	18	361	0		3	hffd	hor6,qty=1	hfcr,qty=25					useitem			100	corruptnum	100		0	99																					hor6,qty=1																													hfcr,qty=26																													0
+Hatred Orb of Equipment (25% occurence rate)	1	2		100	18	361	0		3	hffd	hor1,qty=1	hfcr,qty=50					useitem			100	corruptnum	100		0	99																					hor1,qty=1																													hfcr,qty=50																													0
+Hatred Orb of Accessories (21% occurence rate)	1	2		100	18	361	0		3	hffd	hor2,qty=1	hfcr,qty=50					useitem			100	corruptnum	100		0	99																					hor2,qty=1																													hfcr,qty=50																													0
+Hatred Orb of Essences (17% occurence rate)	1	2		100	18	361	0		3	hffd	hor3,qty=1	hfcr,qty=50					useitem			100	corruptnum	100		0	99																					hor3,qty=1																													hfcr,qty=50																													0
+Hatred Orb of Fate Cards (15% occurence rate)	1	2		100	18	361	0		3	hffd	hor4,qty=1	hfcr,qty=50					useitem			100	corruptnum	100		0	99																					hor4,qty=1																													hfcr,qty=50																													0
+Hatred Orb of Runes (12% occurence rate)	1	2		100	18	361	0		3	hffd	hor5,qty=1	hfcr,qty=50					useitem			100	corruptnum	100		0	99																					hor5,qty=1																													hfcr,qty=50																													0
+Hatred Orb of Currency (10% occurence rate)	1	2		100	18	361	0		3	hffd	hor6,qty=1	hfcr,qty=50					useitem			100	corruptnum	100		0	99																					hor6,qty=1																													hfcr,qty=50																													0
 																																																																																																								0
 RE-ROLL HATE ORB TYPE - OUTCOME																																																																																																								0
-Hatred Orb of Equipment -> Hatred Orb of Accessories	1			100	16	361	27		3	hffd	hor1,qty=1	hfcr,qty=25					hffd	99																												hor2,qty=1																																																										0
-Hatred Orb of Equipment -> Hatred Orb of Essences	1			100	16	361	50		3	hffd	hor1,qty=1	hfcr,qty=25					hffd	99																												hor3,qty=1																																																										0
-Hatred Orb of Equipment -> Hatred Orb of Fate Cards	1			100	16	361	70		3	hffd	hor1,qty=1	hfcr,qty=25					hffd	99																												hor4,qty=1																																																										0
-Hatred Orb of Equipment -> Hatred Orb of Runes	1			100	16	361	86		3	hffd	hor1,qty=1	hfcr,qty=25					hffd	99																												hor5,qty=1																																																										0
-Hatred Orb of Equipment -> Hatred Orb of Currency	1			100	16	361	99		3	hffd	hor1,qty=1	hfcr,qty=25					hffd	99																												hor6,qty=1																																																										0
+Hatred Orb of Equipment -> Hatred Orb of Accessories	1			100	16	361	27		3	hffd	hor1,qty=1	hfcr,qty=50					hffd	99																												hor2,qty=1																																																										0
+Hatred Orb of Equipment -> Hatred Orb of Essences	1			100	16	361	50		3	hffd	hor1,qty=1	hfcr,qty=50					hffd	99																												hor3,qty=1																																																										0
+Hatred Orb of Equipment -> Hatred Orb of Fate Cards	1			100	16	361	70		3	hffd	hor1,qty=1	hfcr,qty=50					hffd	99																												hor4,qty=1																																																										0
+Hatred Orb of Equipment -> Hatred Orb of Runes	1			100	16	361	86		3	hffd	hor1,qty=1	hfcr,qty=50					hffd	99																												hor5,qty=1																																																										0
+Hatred Orb of Equipment -> Hatred Orb of Currency	1			100	16	361	99		3	hffd	hor1,qty=1	hfcr,qty=50					hffd	99																												hor6,qty=1																																																										0
 																																																																																																								0
-Hatred Orb of Accessories -> Hatred Orb of Equipment	1			100	16	361	31		3	hffd	hor2,qty=1	hfcr,qty=25					hffd	99																												hor1,qty=1																																																										0
-Hatred Orb of Accessories -> Hatred Orb of Essences	1			100	16	361	53		3	hffd	hor2,qty=1	hfcr,qty=25					hffd	99																												hor3,qty=1																																																										0
-Hatred Orb of Accessories -> Hatred Orb of Fate Cards	1			100	16	361	72		3	hffd	hor2,qty=1	hfcr,qty=25					hffd	99																												hor4,qty=1																																																										0
-Hatred Orb of Accessories -> Hatred Orb of Runes	1			100	16	361	87		3	hffd	hor2,qty=1	hfcr,qty=25					hffd	99																												hor5,qty=1																																																										0
-Hatred Orb of Accessories -> Hatred Orb of Currency	1			100	16	361	99		3	hffd	hor2,qty=1	hfcr,qty=25					hffd	99																												hor6,qty=1																																																										0
+Hatred Orb of Accessories -> Hatred Orb of Equipment	1			100	16	361	31		3	hffd	hor2,qty=1	hfcr,qty=50					hffd	99																												hor1,qty=1																																																										0
+Hatred Orb of Accessories -> Hatred Orb of Essences	1			100	16	361	53		3	hffd	hor2,qty=1	hfcr,qty=50					hffd	99																												hor3,qty=1																																																										0
+Hatred Orb of Accessories -> Hatred Orb of Fate Cards	1			100	16	361	72		3	hffd	hor2,qty=1	hfcr,qty=50					hffd	99																												hor4,qty=1																																																										0
+Hatred Orb of Accessories -> Hatred Orb of Runes	1			100	16	361	87		3	hffd	hor2,qty=1	hfcr,qty=50					hffd	99																												hor5,qty=1																																																										0
+Hatred Orb of Accessories -> Hatred Orb of Currency	1			100	16	361	99		3	hffd	hor2,qty=1	hfcr,qty=50					hffd	99																												hor6,qty=1																																																										0
 																																																																																																								0
-Hatred Orb of Essences -> Hatred Orb of Equipment	1			100	16	361	30		3	hffd	hor3,qty=1	hfcr,qty=25					hffd	99																												hor1,qty=1																																																										0
-Hatred Orb of Essences -> Hatred Orb of Accessories	1			100	16	361	55		3	hffd	hor3,qty=1	hfcr,qty=25					hffd	99																												hor2,qty=1																																																										0
-Hatred Orb of Essences -> Hatred Orb of Fate Cards	1			100	16	361	73		3	hffd	hor3,qty=1	hfcr,qty=25					hffd	99																												hor4,qty=1																																																										0
-Hatred Orb of Essences -> Hatred Orb of Runes	1			100	16	361	87		3	hffd	hor3,qty=1	hfcr,qty=25					hffd	99																												hor5,qty=1																																																										0
-Hatred Orb of Essences -> Hatred Orb of Currency	1			100	16	361	99		3	hffd	hor3,qty=1	hfcr,qty=25					hffd	99																												hor6,qty=1																																																										0
+Hatred Orb of Essences -> Hatred Orb of Equipment	1			100	16	361	30		3	hffd	hor3,qty=1	hfcr,qty=50					hffd	99																												hor1,qty=1																																																										0
+Hatred Orb of Essences -> Hatred Orb of Accessories	1			100	16	361	55		3	hffd	hor3,qty=1	hfcr,qty=50					hffd	99																												hor2,qty=1																																																										0
+Hatred Orb of Essences -> Hatred Orb of Fate Cards	1			100	16	361	73		3	hffd	hor3,qty=1	hfcr,qty=50					hffd	99																												hor4,qty=1																																																										0
+Hatred Orb of Essences -> Hatred Orb of Runes	1			100	16	361	87		3	hffd	hor3,qty=1	hfcr,qty=50					hffd	99																												hor5,qty=1																																																										0
+Hatred Orb of Essences -> Hatred Orb of Currency	1			100	16	361	99		3	hffd	hor3,qty=1	hfcr,qty=50					hffd	99																												hor6,qty=1																																																										0
 																																																																																																								0
-Hatred Orb of Fate Cards -> Hatred Orb of Equipment	1			100	16	361	29		3	hffd	hor4,qty=1	hfcr,qty=25					hffd	99																												hor1,qty=1																																																										0
-Hatred Orb of Fate Cards -> Hatred Orb of Accessories	1			100	16	361	54		3	hffd	hor4,qty=1	hfcr,qty=25					hffd	99																												hor2,qty=1																																																										0
-Hatred Orb of Fate Cards -> Hatred Orb of Essences	1			100	16	361	74		3	hffd	hor4,qty=1	hfcr,qty=25					hffd	99																												hor3,qty=1																																																										0
-Hatred Orb of Fate Cards -> Hatred Orb of Runes	1			100	16	361	88		3	hffd	hor4,qty=1	hfcr,qty=25					hffd	99																												hor5,qty=1																																																										0
-Hatred Orb of Fate Cards -> Hatred Orb of Currency	1			100	16	361	99		3	hffd	hor4,qty=1	hfcr,qty=25					hffd	99																												hor6,qty=1																																																										0
+Hatred Orb of Fate Cards -> Hatred Orb of Equipment	1			100	16	361	29		3	hffd	hor4,qty=1	hfcr,qty=50					hffd	99																												hor1,qty=1																																																										0
+Hatred Orb of Fate Cards -> Hatred Orb of Accessories	1			100	16	361	54		3	hffd	hor4,qty=1	hfcr,qty=50					hffd	99																												hor2,qty=1																																																										0
+Hatred Orb of Fate Cards -> Hatred Orb of Essences	1			100	16	361	74		3	hffd	hor4,qty=1	hfcr,qty=50					hffd	99																												hor3,qty=1																																																										0
+Hatred Orb of Fate Cards -> Hatred Orb of Runes	1			100	16	361	88		3	hffd	hor4,qty=1	hfcr,qty=50					hffd	99																												hor5,qty=1																																																										0
+Hatred Orb of Fate Cards -> Hatred Orb of Currency	1			100	16	361	99		3	hffd	hor4,qty=1	hfcr,qty=50					hffd	99																												hor6,qty=1																																																										0
 																																																																																																								0
-Hatred Orb of Runes -> Hatred Orb of Equipment	1			100	16	361	28		3	hffd	hor5,qty=1	hfcr,qty=25					hffd	99																												hor1,qty=1																																																										0
-Hatred Orb of Runes -> Hatred Orb of Accessories	1			100	16	361	52		3	hffd	hor5,qty=1	hfcr,qty=25					hffd	99																												hor2,qty=1																																																										0
-Hatred Orb of Runes -> Hatred Orb of Essences	1			100	16	361	71		3	hffd	hor5,qty=1	hfcr,qty=25					hffd	99																												hor3,qty=1																																																										0
-Hatred Orb of Runes -> Hatred Orb of Fate Cards	1			100	16	361	88		3	hffd	hor5,qty=1	hfcr,qty=25					hffd	99																												hor4,qty=1																																																										0
-Hatred Orb of Runes -> Hatred Orb of Currency	1			100	16	361	99		3	hffd	hor5,qty=1	hfcr,qty=25					hffd	99																												hor6,qty=1																																																										0
+Hatred Orb of Runes -> Hatred Orb of Equipment	1			100	16	361	28		3	hffd	hor5,qty=1	hfcr,qty=50					hffd	99																												hor1,qty=1																																																										0
+Hatred Orb of Runes -> Hatred Orb of Accessories	1			100	16	361	52		3	hffd	hor5,qty=1	hfcr,qty=50					hffd	99																												hor2,qty=1																																																										0
+Hatred Orb of Runes -> Hatred Orb of Essences	1			100	16	361	71		3	hffd	hor5,qty=1	hfcr,qty=50					hffd	99																												hor3,qty=1																																																										0
+Hatred Orb of Runes -> Hatred Orb of Fate Cards	1			100	16	361	88		3	hffd	hor5,qty=1	hfcr,qty=50					hffd	99																												hor4,qty=1																																																										0
+Hatred Orb of Runes -> Hatred Orb of Currency	1			100	16	361	99		3	hffd	hor5,qty=1	hfcr,qty=50					hffd	99																												hor6,qty=1																																																										0
 																																																																																																								0
-Hatred Orb of Currency -> Hatred Orb of Equipment	1			100	16	361	27		3	hffd	hor6,qty=1	hfcr,qty=25					hffd	99																												hor1,qty=1																																																										0
-Hatred Orb of Currency -> Hatred Orb of Accessories	1			100	16	361	50		3	hffd	hor6,qty=1	hfcr,qty=25					hffd	99																												hor2,qty=1																																																										0
-Hatred Orb of Currency -> Hatred Orb of Essences	1			100	16	361	69		3	hffd	hor6,qty=1	hfcr,qty=25					hffd	99																												hor3,qty=1																																																										0
-Hatred Orb of Currency -> Hatred Orb of Fate Cards	1			100	16	361	86		3	hffd	hor6,qty=1	hfcr,qty=25					hffd	99																												hor4,qty=1																																																										0
-Hatred Orb of Currency -> Hatred Orb of Runes	1			100	16	361	99		3	hffd	hor6,qty=1	hfcr,qty=25					hffd	99																												hor5,qty=1																																																										0
+Hatred Orb of Currency -> Hatred Orb of Equipment	1			100	16	361	27		3	hffd	hor6,qty=1	hfcr,qty=50					hffd	99																												hor1,qty=1																																																										0
+Hatred Orb of Currency -> Hatred Orb of Accessories	1			100	16	361	50		3	hffd	hor6,qty=1	hfcr,qty=50					hffd	99																												hor2,qty=1																																																										0
+Hatred Orb of Currency -> Hatred Orb of Essences	1			100	16	361	69		3	hffd	hor6,qty=1	hfcr,qty=50					hffd	99																												hor3,qty=1																																																										0
+Hatred Orb of Currency -> Hatred Orb of Fate Cards	1			100	16	361	86		3	hffd	hor6,qty=1	hfcr,qty=50					hffd	99																												hor4,qty=1																																																										0
+Hatred Orb of Currency -> Hatred Orb of Runes	1			100	16	361	99		3	hffd	hor6,qty=1	hfcr,qty=50					hffd	99																												hor5,qty=1																																																										0
 																																																																																																								0
 FATE CARD GAMBA - ROLL																																																																																																								0
 The Apothecary Card	1	2		100	18	361	0		3	hffd	fa01,qty=1	hfcr,qty=50					useitem			100	corruptnum	100		1	3																					fa01,qty=1																													hfcr,qty=51																													0
@@ -4338,142 +4338,142 @@ Craft Ingredient Bountiful	1			100					4	hffd	jewf,qty=5	hfcr,qty=15	gpys,qty=5	
 Craft Ingredient Prismatic	1			100					4	hffd	jewf,qty=5	hfcr,qty=15	gpws,qty=5				crfp,qty=5																													hffd																																																										0
 																																																																																																								0
 UBER MATS CONVERSION - SAME UBER																																																																																																								0
-Uber mats Convert Black Soulstone	1	2		100	18	361	0		3	hffd	dcho,qty=1	hfcr,qty=15					useitem				corruptnum	100		0	99																					dcho,qty=1																													hfcr,qty=16																													0
-Uber mats Convert Pure Demonic Essence	1	2		100	18	361	0		3	hffd	dcbl,qty=1	hfcr,qty=15					useitem				corruptnum	100		0	99																					dcbl,qty=1																													hfcr,qty=16																													0
-Uber mats Convert Prime Evil Soul	1	2		100	18	361	0		3	hffd	dcso,qty=1	hfcr,qty=15					useitem				corruptnum	100		0	99																					dcso,qty=1																													hfcr,qty=16																													0
-Uber mats Convert Demonic Insignia	1	2		100	18	361	0		3	hffd	lucb,qty=1	hfcr,qty=15					useitem				corruptnum	100		0	99																					lucb,qty=1																													hfcr,qty=16																													0
-Uber mats Convert Talisman of Transgression	1	2		100	18	361	0		3	hffd	lucc,qty=1	hfcr,qty=15					useitem				corruptnum	100		0	99																					lucc,qty=1																													hfcr,qty=16																													0
-Uber mats Convert Flesh of Malic	1	2		100	18	361	0		3	hffd	lucd,qty=1	hfcr,qty=15					useitem				corruptnum	100		0	99																					lucd,qty=1																													hfcr,qty=16																													0
-Uber mats Convert Pandemonium Key 1	1	2		100	18	361	0		3	hffd	pk1,qty=1	hfcr,qty=15					useitem				corruptnum	100		0	99																					pk1,qty=1																													hfcr,qty=16																													0
-Uber mats Convert Pandemonium Key 2	1	2		100	18	361	0		3	hffd	pk2,qty=1	hfcr,qty=15					useitem				corruptnum	100		0	99																					pk2,qty=1																													hfcr,qty=16																													0
-Uber mats Convert Pandemonium Key 3	1	2		100	18	361	0		3	hffd	pk3,qty=1	hfcr,qty=15					useitem				corruptnum	100		0	99																					pk3,qty=1																													hfcr,qty=16																													0
-Uber mats Convert Trang-oul Jawbone	1	2		100	18	361	0		3	hffd	rtmo,qty=1	hfcr,qty=15					useitem				corruptnum	100		0	99																					rtmo,qty=1																													hfcr,qty=16																													0
-Uber mats Convert Splinter of the Void	1	2		100	18	361	0		3	hffd	rtmv,qty=1	hfcr,qty=15					useitem				corruptnum	100		0	99																					rtmv,qty=1																													hfcr,qty=16																													0
-Uber mats Convert Hellfire Ashes	1	2		100	18	361	0		3	hffd	cm2f,qty=1	hfcr,qty=15					useitem				corruptnum	100		0	99																					cm2f,qty=1																													hfcr,qty=16																													0
-Uber mats Convert Sigil of Madawc	1	2		100	18	361	0		3	hffd	ubaa,qty=1	hfcr,qty=15					useitem				corruptnum	100		0	99																					ubaa,qty=1																													hfcr,qty=16																													0
-Uber mats Convert Sigil of Talic	1	2		100	18	361	0		3	hffd	ubab,qty=1	hfcr,qty=15					useitem				corruptnum	100		0	99																					ubab,qty=1																													hfcr,qty=16																													0
-Uber mats Convert Sigil of Korlic	1	2		100	18	361	0		3	hffd	ubac,qty=1	hfcr,qty=15					useitem				corruptnum	100		0	99																					ubac,qty=1																													hfcr,qty=16																													0
-Uber mats Convert Sigil Fragment of Apostasy	1	2		100	18	361	0		3	hffd	sfoa,qty=1	hfcr,qty=15					useitem				corruptnum	100		0	99																					sfoa,qty=1																													hfcr,qty=16																													0
-Uber mats Convert Sigil Fragment of Damnation	1	2		100	18	361	0		3	hffd	sfod,qty=1	hfcr,qty=15					useitem				corruptnum	100		0	99																					sfod,qty=1																													hfcr,qty=16																													0
-Uber mats Convert Sigil Fragment of Betrayal	1	2		100	18	361	0		3	hffd	sfob,qty=1	hfcr,qty=15					useitem				corruptnum	100		0	99																					sfob,qty=1																													hfcr,qty=16																													0
-Uber mats Convert Sigil Fragment of Resurrection	1	2		100	18	361	0		3	hffd	sfor,qty=1	hfcr,qty=15					useitem				corruptnum	100		0	99																					sfor,qty=1																													hfcr,qty=16																													0
+Uber mats Convert Black Soulstone	1	2		100	18	361	0		3	hffd	dcho,qty=1	hfcr,qty=25					useitem				corruptnum	100		0	99																					dcho,qty=1																													hfcr,qty=25																													0
+Uber mats Convert Pure Demonic Essence	1	2		100	18	361	0		3	hffd	dcbl,qty=1	hfcr,qty=25					useitem				corruptnum	100		0	99																					dcbl,qty=1																													hfcr,qty=25																													0
+Uber mats Convert Prime Evil Soul	1	2		100	18	361	0		3	hffd	dcso,qty=1	hfcr,qty=25					useitem				corruptnum	100		0	99																					dcso,qty=1																													hfcr,qty=25																													0
+Uber mats Convert Demonic Insignia	1	2		100	18	361	0		3	hffd	lucb,qty=1	hfcr,qty=25					useitem				corruptnum	100		0	99																					lucb,qty=1																													hfcr,qty=25																													0
+Uber mats Convert Talisman of Transgression	1	2		100	18	361	0		3	hffd	lucc,qty=1	hfcr,qty=25					useitem				corruptnum	100		0	99																					lucc,qty=1																													hfcr,qty=25																													0
+Uber mats Convert Flesh of Malic	1	2		100	18	361	0		3	hffd	lucd,qty=1	hfcr,qty=25					useitem				corruptnum	100		0	99																					lucd,qty=1																													hfcr,qty=25																													0
+Uber mats Convert Pandemonium Key 1	1	2		100	18	361	0		3	hffd	pk1,qty=1	hfcr,qty=25					useitem				corruptnum	100		0	99																					pk1,qty=1																													hfcr,qty=25																													0
+Uber mats Convert Pandemonium Key 2	1	2		100	18	361	0		3	hffd	pk2,qty=1	hfcr,qty=25					useitem				corruptnum	100		0	99																					pk2,qty=1																													hfcr,qty=25																													0
+Uber mats Convert Pandemonium Key 3	1	2		100	18	361	0		3	hffd	pk3,qty=1	hfcr,qty=25					useitem				corruptnum	100		0	99																					pk3,qty=1																													hfcr,qty=25																													0
+Uber mats Convert Trang-oul Jawbone	1	2		100	18	361	0		3	hffd	rtmo,qty=1	hfcr,qty=25					useitem				corruptnum	100		0	99																					rtmo,qty=1																													hfcr,qty=25																													0
+Uber mats Convert Splinter of the Void	1	2		100	18	361	0		3	hffd	rtmv,qty=1	hfcr,qty=25					useitem				corruptnum	100		0	99																					rtmv,qty=1																													hfcr,qty=25																													0
+Uber mats Convert Hellfire Ashes	1	2		100	18	361	0		3	hffd	cm2f,qty=1	hfcr,qty=25					useitem				corruptnum	100		0	99																					cm2f,qty=1																													hfcr,qty=25																													0
+Uber mats Convert Sigil of Madawc	1	2		100	18	361	0		3	hffd	ubaa,qty=1	hfcr,qty=25					useitem				corruptnum	100		0	99																					ubaa,qty=1																													hfcr,qty=25																													0
+Uber mats Convert Sigil of Talic	1	2		100	18	361	0		3	hffd	ubab,qty=1	hfcr,qty=25					useitem				corruptnum	100		0	99																					ubab,qty=1																													hfcr,qty=25																													0
+Uber mats Convert Sigil of Korlic	1	2		100	18	361	0		3	hffd	ubac,qty=1	hfcr,qty=25					useitem				corruptnum	100		0	99																					ubac,qty=1																													hfcr,qty=25																													0
+Uber mats Convert Sigil Fragment of Apostasy	1	2		100	18	361	0		3	hffd	sfoa,qty=1	hfcr,qty=25					useitem				corruptnum	100		0	99																					sfoa,qty=1																													hfcr,qty=25																													0
+Uber mats Convert Sigil Fragment of Damnation	1	2		100	18	361	0		3	hffd	sfod,qty=1	hfcr,qty=25					useitem				corruptnum	100		0	99																					sfod,qty=1																													hfcr,qty=25																													0
+Uber mats Convert Sigil Fragment of Betrayal	1	2		100	18	361	0		3	hffd	sfob,qty=1	hfcr,qty=25					useitem				corruptnum	100		0	99																					sfob,qty=1																													hfcr,qty=25																													0
+Uber mats Convert Sigil Fragment of Resurrection	1	2		100	18	361	0		3	hffd	sfor,qty=1	hfcr,qty=25					useitem				corruptnum	100		0	99																					sfor,qty=1																													hfcr,qty=25																													0
 																																																																																																								0
-Black Soulstone -> Pure Demonic Essence	1			100	16	361	39		3	hffd	dcho,qty=1	hfcr,qty=15					dcbl,qty=1																													hffd																																																										0
-Black Soulstone -> Prime Evil Soul	1			100	16	361	89		3	hffd	dcho,qty=1	hfcr,qty=15					dcso,qty=1																													hffd																																																										0
-Black Soulstone -> Black Soulstone (no change)	1			100	16	361	99		3	hffd	dcho,qty=1	hfcr,qty=15					dcho,qty=1																													hffd																																																										0
+Black Soulstone -> Pure Demonic Essence	1			100	16	361	39		3	hffd	dcho,qty=1	hfcr,qty=25					dcbl,qty=1																													hffd																																																										0
+Black Soulstone -> Prime Evil Soul	1			100	16	361	89		3	hffd	dcho,qty=1	hfcr,qty=25					dcso,qty=1																													hffd																																																										0
+Black Soulstone -> Black Soulstone (no change)	1			100	16	361	99		3	hffd	dcho,qty=1	hfcr,qty=25					dcho,qty=1																													hffd																																																										0
 																																																																																																								0
-Pure Demonic Essence -> Black Soulstone	1			100	16	361	39		3	hffd	dcbl,qty=1	hfcr,qty=15					dcho,qty=1																													hffd																																																										0
-Pure Demonic Essence -> Prime Evil Soul	1			100	16	361	89		3	hffd	dcbl,qty=1	hfcr,qty=15					dcso,qty=1																													hffd																																																										0
-Pure Demonic Essence -> Pure Demonic Essence (no change)	1			100	16	361	99		3	hffd	dcbl,qty=1	hfcr,qty=15					dcbl,qty=1																													hffd																																																										0
+Pure Demonic Essence -> Black Soulstone	1			100	16	361	39		3	hffd	dcbl,qty=1	hfcr,qty=25					dcho,qty=1																													hffd																																																										0
+Pure Demonic Essence -> Prime Evil Soul	1			100	16	361	89		3	hffd	dcbl,qty=1	hfcr,qty=25					dcso,qty=1																													hffd																																																										0
+Pure Demonic Essence -> Pure Demonic Essence (no change)	1			100	16	361	99		3	hffd	dcbl,qty=1	hfcr,qty=25					dcbl,qty=1																													hffd																																																										0
 																																																																																																								0
-Prime Evil Soul -> Black Soulstone	1			100	16	361	39		3	hffd	dcso,qty=1	hfcr,qty=15					dcho,qty=1																													hffd																																																										0
-Prime Evil Soul -> Pure Demonic Essence	1			100	16	361	89		3	hffd	dcso,qty=1	hfcr,qty=15					dcbl,qty=1																													hffd																																																										0
-Prime Evil Soul -> Prime Evil Soul (no change)	1			100	16	361	99		3	hffd	dcso,qty=1	hfcr,qty=15					dcso,qty=1																													hffd																																																										0
+Prime Evil Soul -> Black Soulstone	1			100	16	361	39		3	hffd	dcso,qty=1	hfcr,qty=25					dcho,qty=1																													hffd																																																										0
+Prime Evil Soul -> Pure Demonic Essence	1			100	16	361	89		3	hffd	dcso,qty=1	hfcr,qty=25					dcbl,qty=1																													hffd																																																										0
+Prime Evil Soul -> Prime Evil Soul (no change)	1			100	16	361	99		3	hffd	dcso,qty=1	hfcr,qty=25					dcso,qty=1																													hffd																																																										0
 																																																																																																								0
-Demonic Insignia -> Talisman of Transgression	1			100	16	361	39		3	hffd	lucb,qty=1	hfcr,qty=15					lucc,qty=1																													hffd																																																										0
-Demonic Insignia -> Flesh of Malic	1			100	16	361	89		3	hffd	lucb,qty=1	hfcr,qty=15					lucd,qty=1																													hffd																																																										0
-Demonic Insignia -> Demonic Insignia (no change)	1			100	16	361	99		3	hffd	lucb,qty=1	hfcr,qty=15					lucb,qty=1																													hffd																																																										0
+Demonic Insignia -> Talisman of Transgression	1			100	16	361	39		3	hffd	lucb,qty=1	hfcr,qty=25					lucc,qty=1																													hffd																																																										0
+Demonic Insignia -> Flesh of Malic	1			100	16	361	89		3	hffd	lucb,qty=1	hfcr,qty=25					lucd,qty=1																													hffd																																																										0
+Demonic Insignia -> Demonic Insignia (no change)	1			100	16	361	99		3	hffd	lucb,qty=1	hfcr,qty=25					lucb,qty=1																													hffd																																																										0
 																																																																																																								0
-Talisman of Transgression -> Demonic Insignia	1			100	16	361	39		3	hffd	lucc,qty=1	hfcr,qty=15					lucb,qty=1																													hffd																																																										0
-Talisman of Transgression > Flesh of Malic	1			100	16	361	89		3	hffd	lucc,qty=1	hfcr,qty=15					lucd,qty=1																													hffd																																																										0
-Talisman of Transgression > Talisman of Transgression (no change)	1			100	16	361	99		3	hffd	lucc,qty=1	hfcr,qty=15					lucc,qty=1																													hffd																																																										0
+Talisman of Transgression -> Demonic Insignia	1			100	16	361	39		3	hffd	lucc,qty=1	hfcr,qty=25					lucb,qty=1																													hffd																																																										0
+Talisman of Transgression > Flesh of Malic	1			100	16	361	89		3	hffd	lucc,qty=1	hfcr,qty=25					lucd,qty=1																													hffd																																																										0
+Talisman of Transgression > Talisman of Transgression (no change)	1			100	16	361	99		3	hffd	lucc,qty=1	hfcr,qty=25					lucc,qty=1																													hffd																																																										0
 																																																																																																								0
-Flesh of Malic -> Demonic Insignia	1			100	16	361	39		3	hffd	lucd,qty=1	hfcr,qty=15					lucb,qty=1																													hffd																																																										0
-Flesh of Malic -> Talisman of Transgression	1			100	16	361	89		3	hffd	lucd,qty=1	hfcr,qty=15					lucc,qty=1																													hffd																																																										0
-Flesh of Malic -> Flesh of Malic (no change)	1			100	16	361	99		3	hffd	lucd,qty=1	hfcr,qty=15					lucd,qty=1																													hffd																																																										0
+Flesh of Malic -> Demonic Insignia	1			100	16	361	39		3	hffd	lucd,qty=1	hfcr,qty=25					lucb,qty=1																													hffd																																																										0
+Flesh of Malic -> Talisman of Transgression	1			100	16	361	89		3	hffd	lucd,qty=1	hfcr,qty=25					lucc,qty=1																													hffd																																																										0
+Flesh of Malic -> Flesh of Malic (no change)	1			100	16	361	99		3	hffd	lucd,qty=1	hfcr,qty=25					lucd,qty=1																													hffd																																																										0
 																																																																																																								0
-Pandemonium Key 1 -> Pandemonium Key 2	1			100	16	361	39		3	hffd	pk1,qty=1	hfcr,qty=15					pk2,qty=1																													hffd																																																										0
-Pandemonium Key 1 -> Pandemonium Key 3	1			100	16	361	89		3	hffd	pk1,qty=1	hfcr,qty=15					pk3,qty=1																													hffd																																																										0
-Pandemonium Key 1 -> Pandemonium Key 1 (no change)	1			100	16	361	99		3	hffd	pk1,qty=1	hfcr,qty=15					pk1,qty=1																													hffd																																																										0
+Pandemonium Key 1 -> Pandemonium Key 2	1			100	16	361	39		3	hffd	pk1,qty=1	hfcr,qty=25					pk2,qty=1																													hffd																																																										0
+Pandemonium Key 1 -> Pandemonium Key 3	1			100	16	361	89		3	hffd	pk1,qty=1	hfcr,qty=25					pk3,qty=1																													hffd																																																										0
+Pandemonium Key 1 -> Pandemonium Key 1 (no change)	1			100	16	361	99		3	hffd	pk1,qty=1	hfcr,qty=25					pk1,qty=1																													hffd																																																										0
 																																																																																																								0
-Pandemonium Key 2 -> Pandemonium Key 1	1			100	16	361	39		3	hffd	pk2,qty=1	hfcr,qty=15					pk1,qty=1																													hffd																																																										0
-Pandemonium Key 2 -> Pandemonium Key 3	1			100	16	361	89		3	hffd	pk2,qty=1	hfcr,qty=15					pk3,qty=1																													hffd																																																										0
-Pandemonium Key 2 -> Pandemonium Key (no change)	1			100	16	361	99		3	hffd	pk2,qty=1	hfcr,qty=15					pk2,qty=1																													hffd																																																										0
+Pandemonium Key 2 -> Pandemonium Key 1	1			100	16	361	39		3	hffd	pk2,qty=1	hfcr,qty=25					pk1,qty=1																													hffd																																																										0
+Pandemonium Key 2 -> Pandemonium Key 3	1			100	16	361	89		3	hffd	pk2,qty=1	hfcr,qty=25					pk3,qty=1																													hffd																																																										0
+Pandemonium Key 2 -> Pandemonium Key (no change)	1			100	16	361	99		3	hffd	pk2,qty=1	hfcr,qty=25					pk2,qty=1																													hffd																																																										0
 																																																																																																								0
-Pandemonium Key 3 -> Pandemonium Key 1	1			100	16	361	39		3	hffd	pk3,qty=1	hfcr,qty=15					pk1,qty=1																													hffd																																																										0
-Pandemonium Key 3 -> Pandemonium Key 2	1			100	16	361	89		3	hffd	pk3,qty=1	hfcr,qty=15					pk2,qty=1																													hffd																																																										0
-Pandemonium Key 3 -> Pandemonium Key 3 (no change)	1			100	16	361	99		3	hffd	pk3,qty=1	hfcr,qty=15					pk3,qty=1																													hffd																																																										0
+Pandemonium Key 3 -> Pandemonium Key 1	1			100	16	361	39		3	hffd	pk3,qty=1	hfcr,qty=25					pk1,qty=1																													hffd																																																										0
+Pandemonium Key 3 -> Pandemonium Key 2	1			100	16	361	89		3	hffd	pk3,qty=1	hfcr,qty=25					pk2,qty=1																													hffd																																																										0
+Pandemonium Key 3 -> Pandemonium Key 3 (no change)	1			100	16	361	99		3	hffd	pk3,qty=1	hfcr,qty=25					pk3,qty=1																													hffd																																																										0
 																																																																																																								0
-Trang-oul Jawbone -> Splinter of the Void	1			100	16	361	39		3	hffd	rtmo,qty=1	hfcr,qty=15					rtmv,qty=1																													hffd																																																										0
-Trang-oul Jawbone -> Hellfire Ashes	1			100	16	361	89		3	hffd	rtmo,qty=1	hfcr,qty=15					cm2f,qty=1																													hffd																																																										0
-Trang-oul Jawbone -> Trang-oul Jawbone (no change)	1			100	16	361	99		3	hffd	rtmo,qty=1	hfcr,qty=15					rtmo,qty=1																													hffd																																																										0
+Trang-oul Jawbone -> Splinter of the Void	1			100	16	361	39		3	hffd	rtmo,qty=1	hfcr,qty=25					rtmv,qty=1																													hffd																																																										0
+Trang-oul Jawbone -> Hellfire Ashes	1			100	16	361	89		3	hffd	rtmo,qty=1	hfcr,qty=25					cm2f,qty=1																													hffd																																																										0
+Trang-oul Jawbone -> Trang-oul Jawbone (no change)	1			100	16	361	99		3	hffd	rtmo,qty=1	hfcr,qty=25					rtmo,qty=1																													hffd																																																										0
 																																																																																																								0
-Splinter of the Void -> Trang-oul Jawbone	1			100	16	361	39		3	hffd	rtmv,qty=1	hfcr,qty=15					rtmo,qty=1																													hffd																																																										0
-Splinter of the Void -> Hellfire Ashes	1			100	16	361	89		3	hffd	rtmv,qty=1	hfcr,qty=15					cm2f,qty=1																													hffd																																																										0
-Splinter of the Void -> Splinter of the Void	1			100	16	361	99		3	hffd	rtmv,qty=1	hfcr,qty=15					rtmv,qty=1																													hffd																																																										0
+Splinter of the Void -> Trang-oul Jawbone	1			100	16	361	39		3	hffd	rtmv,qty=1	hfcr,qty=25					rtmo,qty=1																													hffd																																																										0
+Splinter of the Void -> Hellfire Ashes	1			100	16	361	89		3	hffd	rtmv,qty=1	hfcr,qty=25					cm2f,qty=1																													hffd																																																										0
+Splinter of the Void -> Splinter of the Void	1			100	16	361	99		3	hffd	rtmv,qty=1	hfcr,qty=25					rtmv,qty=1																													hffd																																																										0
 																																																																																																								0
-Hellfire Ashes -> Trang-oul Jawbone	1			100	16	361	39		3	hffd	cm2f,qty=1	hfcr,qty=15					rtmo,qty=1																													hffd																																																										0
-Hellfire Ashes -> Splinter of the Void	1			100	16	361	89		3	hffd	cm2f,qty=1	hfcr,qty=15					rtmv,qty=1																													hffd																																																										0
-Hellfire Ashes -> Hellfire Ashes (no change)	1			100	16	361	99		3	hffd	cm2f,qty=1	hfcr,qty=15					cm2f,qty=1																													hffd																																																										0
+Hellfire Ashes -> Trang-oul Jawbone	1			100	16	361	39		3	hffd	cm2f,qty=1	hfcr,qty=25					rtmo,qty=1																													hffd																																																										0
+Hellfire Ashes -> Splinter of the Void	1			100	16	361	89		3	hffd	cm2f,qty=1	hfcr,qty=25					rtmv,qty=1																													hffd																																																										0
+Hellfire Ashes -> Hellfire Ashes (no change)	1			100	16	361	99		3	hffd	cm2f,qty=1	hfcr,qty=25					cm2f,qty=1																													hffd																																																										0
 																																																																																																								0
-Sigil of Madawc -> Sigil of Talic	1			100	16	361	39		3	hffd	ubaa,qty=1	hfcr,qty=15					ubab,qty=1																													hffd																																																										0
-Sigil of Madawc -> Sigil of Korlic	1			100	16	361	89		3	hffd	ubaa,qty=1	hfcr,qty=15					ubac,qty=1																													hffd																																																										0
-Sigil of Madawc -> No Change	1			100	16	361	99		3	hffd	ubaa,qty=1	hfcr,qty=15					ubaa,qty=1																													hffd																																																										0
+Sigil of Madawc -> Sigil of Talic	1			100	16	361	39		3	hffd	ubaa,qty=1	hfcr,qty=25					ubab,qty=1																													hffd																																																										0
+Sigil of Madawc -> Sigil of Korlic	1			100	16	361	89		3	hffd	ubaa,qty=1	hfcr,qty=25					ubac,qty=1																													hffd																																																										0
+Sigil of Madawc -> No Change	1			100	16	361	99		3	hffd	ubaa,qty=1	hfcr,qty=25					ubaa,qty=1																													hffd																																																										0
 																																																																																																								0
-Sigil of Talic -> Sigil of Madawc	1			100	16	361	39		3	hffd	ubab,qty=1	hfcr,qty=15					ubaa,qty=1																													hffd																																																										0
-Sigil of Talic -> Sigil of Korlic	1			100	16	361	89		3	hffd	ubab,qty=1	hfcr,qty=15					ubac,qty=1																													hffd																																																										0
-Sigil of Talic -> No change	1			100	16	361	99		3	hffd	ubab,qty=1	hfcr,qty=15					ubab,qty=1																													hffd																																																										0
+Sigil of Talic -> Sigil of Madawc	1			100	16	361	39		3	hffd	ubab,qty=1	hfcr,qty=25					ubaa,qty=1																													hffd																																																										0
+Sigil of Talic -> Sigil of Korlic	1			100	16	361	89		3	hffd	ubab,qty=1	hfcr,qty=25					ubac,qty=1																													hffd																																																										0
+Sigil of Talic -> No change	1			100	16	361	99		3	hffd	ubab,qty=1	hfcr,qty=25					ubab,qty=1																													hffd																																																										0
 																																																																																																								0
-Sigil of Korlic -> Sigil of Madawc	1			100	16	361	39		3	hffd	ubac,qty=1	hfcr,qty=15					ubaa,qty=1																													hffd																																																										0
-Sigil of Korlic -> Sigil of Talic	1			100	16	361	89		3	hffd	ubac,qty=1	hfcr,qty=15					ubab,qty=1																													hffd																																																										0
-Sigil of Korlic -> No change	1			100	16	361	99		3	hffd	ubac,qty=1	hfcr,qty=15					ubac,qty=1																													hffd																																																										0
+Sigil of Korlic -> Sigil of Madawc	1			100	16	361	39		3	hffd	ubac,qty=1	hfcr,qty=25					ubaa,qty=1																													hffd																																																										0
+Sigil of Korlic -> Sigil of Talic	1			100	16	361	89		3	hffd	ubac,qty=1	hfcr,qty=25					ubab,qty=1																													hffd																																																										0
+Sigil of Korlic -> No change	1			100	16	361	99		3	hffd	ubac,qty=1	hfcr,qty=25					ubac,qty=1																													hffd																																																										0
 																																																																																																								0
-Sigil Fragment of Apostasy -> Sigil Fragment of Damnation	1			100	16	361	24		3	hffd	sfoa,qty=1	hfcr,qty=15					sfod,qty=1																													hffd																																																										0
-Sigil Fragment of Apostasy -> Sigil Fragment of Betrayal	1			100	16	361	49		3	hffd	sfoa,qty=1	hfcr,qty=15					sfob,qty=1																													hffd																																																										0
-Sigil Fragment of Apostasy -> Sigil Fragment of Resurrection	1			100	16	361	74		3	hffd	sfoa,qty=1	hfcr,qty=15					sfor,qty=1																													hffd																																																										0
-Sigil Fragment of Apostasy -> No change	1			100	16	361	99		3	hffd	sfoa,qty=1	hfcr,qty=15					sfoa,qty=1																													hffd																																																										0
+Sigil Fragment of Apostasy -> Sigil Fragment of Damnation	1			100	16	361	24		3	hffd	sfoa,qty=1	hfcr,qty=25					sfod,qty=1																													hffd																																																										0
+Sigil Fragment of Apostasy -> Sigil Fragment of Betrayal	1			100	16	361	49		3	hffd	sfoa,qty=1	hfcr,qty=25					sfob,qty=1																													hffd																																																										0
+Sigil Fragment of Apostasy -> Sigil Fragment of Resurrection	1			100	16	361	74		3	hffd	sfoa,qty=1	hfcr,qty=25					sfor,qty=1																													hffd																																																										0
+Sigil Fragment of Apostasy -> No change	1			100	16	361	99		3	hffd	sfoa,qty=1	hfcr,qty=25					sfoa,qty=1																													hffd																																																										0
 																																																																																																								0
-Sigil Fragment of Damnation -> Sigil Fragment of Apostasy	1			100	16	361	24		3	hffd	sfod,qty=1	hfcr,qty=15					sfoa,qty=1																													hffd																																																										0
-Sigil Fragment of Damnation -> Sigil Fragment of Betrayal	1			100	16	361	49		3	hffd	sfod,qty=1	hfcr,qty=15					sfob,qty=1																													hffd																																																										0
-Sigil Fragment of Damnation -> Sigil Fragment of Resurrection	1			100	16	361	74		3	hffd	sfod,qty=1	hfcr,qty=15					sfor,qty=1																													hffd																																																										0
-Sigil Fragment of Damnation -> No change	1			100	16	361	99		3	hffd	sfod,qty=1	hfcr,qty=15					sfod,qty=1																													hffd																																																										0
+Sigil Fragment of Damnation -> Sigil Fragment of Apostasy	1			100	16	361	24		3	hffd	sfod,qty=1	hfcr,qty=25					sfoa,qty=1																													hffd																																																										0
+Sigil Fragment of Damnation -> Sigil Fragment of Betrayal	1			100	16	361	49		3	hffd	sfod,qty=1	hfcr,qty=25					sfob,qty=1																													hffd																																																										0
+Sigil Fragment of Damnation -> Sigil Fragment of Resurrection	1			100	16	361	74		3	hffd	sfod,qty=1	hfcr,qty=25					sfor,qty=1																													hffd																																																										0
+Sigil Fragment of Damnation -> No change	1			100	16	361	99		3	hffd	sfod,qty=1	hfcr,qty=25					sfod,qty=1																													hffd																																																										0
 																																																																																																								0
-Sigil Fragment of Betrayal -> Sigil Fragment of Damnation	1			100	16	361	24		3	hffd	sfob,qty=1	hfcr,qty=15					sfod,qty=1																													hffd																																																										0
-Sigil Fragment of Betrayal -> Sigil Fragment of Apostasy	1			100	16	361	49		3	hffd	sfob,qty=1	hfcr,qty=15					sfoa,qty=1																													hffd																																																										0
-Sigil Fragment of Betrayal -> Sigil Fragment of Resurrection	1			100	16	361	74		3	hffd	sfob,qty=1	hfcr,qty=15					sfor,qty=1																													hffd																																																										0
-Sigil Fragment of Betrayal -> No change	1			100	16	361	99		3	hffd	sfob,qty=1	hfcr,qty=15					sfob,qty=1																													hffd																																																										0
+Sigil Fragment of Betrayal -> Sigil Fragment of Damnation	1			100	16	361	24		3	hffd	sfob,qty=1	hfcr,qty=25					sfod,qty=1																													hffd																																																										0
+Sigil Fragment of Betrayal -> Sigil Fragment of Apostasy	1			100	16	361	49		3	hffd	sfob,qty=1	hfcr,qty=25					sfoa,qty=1																													hffd																																																										0
+Sigil Fragment of Betrayal -> Sigil Fragment of Resurrection	1			100	16	361	74		3	hffd	sfob,qty=1	hfcr,qty=25					sfor,qty=1																													hffd																																																										0
+Sigil Fragment of Betrayal -> No change	1			100	16	361	99		3	hffd	sfob,qty=1	hfcr,qty=25					sfob,qty=1																													hffd																																																										0
 																																																																																																								0
-Sigil Fragment of Resurrection -> Sigil Fragment of Betrayal	1			100	16	361	24		3	hffd	sfor,qty=1	hfcr,qty=15					sfob,qty=1																													hffd																																																										0
-Sigil Fragment of Resurrection -> Sigil Fragment of Damnation	1			100	16	361	49		3	hffd	sfor,qty=1	hfcr,qty=15					sfod,qty=1																													hffd																																																										0
-Sigil Fragment of Resurrection -> Sigil Fragment of Apostasy	1			100	16	361	74		3	hffd	sfor,qty=1	hfcr,qty=15					sfoa,qty=1																													hffd																																																										0
-Sigil Fragment of Resurrection -> No change	1			100	16	361	99		3	hffd	sfor,qty=1	hfcr,qty=15					sfor,qty=1																													hffd																																																										0
+Sigil Fragment of Resurrection -> Sigil Fragment of Betrayal	1			100	16	361	24		3	hffd	sfor,qty=1	hfcr,qty=25					sfob,qty=1																													hffd																																																										0
+Sigil Fragment of Resurrection -> Sigil Fragment of Damnation	1			100	16	361	49		3	hffd	sfor,qty=1	hfcr,qty=25					sfod,qty=1																													hffd																																																										0
+Sigil Fragment of Resurrection -> Sigil Fragment of Apostasy	1			100	16	361	74		3	hffd	sfor,qty=1	hfcr,qty=25					sfoa,qty=1																													hffd																																																										0
+Sigil Fragment of Resurrection -> No change	1			100	16	361	99		3	hffd	sfor,qty=1	hfcr,qty=25					sfor,qty=1																													hffd																																																										0
 																																																																																																								0
 																																																																																																								0
 OBTAIN RANDOM HELLFORGED UNIQUE																																																																																																								0
-Roll the dice	1	2		100	18	361	0		3	hffd	mfo,qty=5	hfcr,qty=35					useitem				corruptnum	100		0	32766																					mfo,qty=5																													hfcr,qty=35																													0
+Roll the dice	0	2		100	18	361	0		3	hffd	mfo,qty=5	hfcr,qty=35					useitem				corruptnum	100		0	32766																					mfo,qty=5																													hfcr,qty=35																													0
 																																																																																																								0
 OUTCOME																																																																																																								0
-Hellforged Herald of Zakarum	1			100	16	361	6554		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Herald of Zakarum	99																												hffd																																																										0
-Hellforged Hellslayer	1			100	16	361	11470		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Hellslayer	99																												hffd																																																										0
-Hellforged Crackleshot	1			100	16	361	14747		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Crackleshot	99																												hffd																																																										0
-Hellforged Medusa's Gaze	1			100	16	361	17369		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Medusa's Gaze	99																												hffd																																																										0
-Hellforged Steelrend	1			100	16	361	19336		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Steelrend	99																												hffd																																																										0
-Hellforged Harlequin Crest	1			100	16	361	20647		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Harlequin Crest	99																												hffd																																																										0
-Hellforged Spirit Ward	1			100	16	361	21631		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Spirit Ward	99																												hffd																																																										0
-Hellforged Bonehew	1			100	16	361	22582		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Bonehew	99																												hffd																																																										0
-Hellforged Metalgrid	1			100	16	361	23500		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Metalgrid	99																												hffd																																																										0
-Hellforged Widowmaker	1			100	16	361	24352		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Widowmaker	99																												hffd																																																										0
-Hellforged Jade Talon	1			100	16	361	25172		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Jade Talon	99																												hffd																																																										0
-Hellforged Zeraes Resolve	1			100	16	361	25959		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Zeraes Resolve	99																												hffd																																																										0
-Hellforged Atma's Scarab	1			100	16	361	26713		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Atma's Scarab	99																												hffd																																																										0
-Hellforged Blackoak Shield	1			100	16	361	27433		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Blackoak Shield	99																												hffd																																																										0
-Hellforged Steel Carapace	1			100	16	361	28121		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Steel Carapace	99																												hffd																																																										0
-Hellforged Arachnid Mesh	1			100	16	361	28776		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Arachnid Mesh	99																												hffd																																																										0
-Hellforged Andariels Visage	1			100	16	361	29333		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Andariels Visage	99																												hffd																																																										0
-Hellforged Widespread	1			100	16	361	29922		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Widespread	99																												hffd																																																										0
-Hellforged Occultist	1			100	16	361	30413		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Occultist	99																												hffd																																																										0
-Hellforged Stone of Jordan	1			100	16	361	30937		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Stone of Jordan	99																												hffd																																																										0
-Hellforged Seraph's Hymn	1			100	16	361	31297		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Seraph's Hymn	99																												hffd																																																										0
-Hellforged Griffon's Eye	1			100	16	361	31591		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Griffon's Eye	99																												hffd																																																										0
-Hellforged Bul Kathos Band	1			100	16	361	31853		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Bul Kathos Band	99																												hffd																																																										0
-Hellforged Death's Web	1			100	16	361	32082		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Death's Web	99																												hffd																																																										0
-Hellforged Azurewrath	1			100	16	361	32278		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Azurewrath	99																												hffd																																																										0
-Hellforged The Rising Sun	1			100	16	361	32441		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged The Rising Sun	99																												hffd																																																										0
-Hellforged Mara's	1			100	16	361	32572		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Mara's	99																												hffd																																																										0
-Hellforged Darkforce Spawn	1			100	16	361	32670		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Darkforce Spawn	99																												hffd																																																										0
-Hellforged Rathmas Hand	1			100	16	361	32735		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Rathmas Hand	99																												hffd																																																										0
-Hellforged Tyrael's Might	1			100	16	361	32757		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Tyrael's Might	99																												hffd																																																										0
-Hellforged Headhunter	1			100	16	361	32766		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Headhunter	99																												hffd																																																										0
+Hellforged Herald of Zakarum	0			100	16	361	6554		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Herald of Zakarum	99																												hffd																																																										0
+Hellforged Hellslayer	0			100	16	361	11470		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Hellslayer	99																												hffd																																																										0
+Hellforged Crackleshot	0			100	16	361	14747		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Crackleshot	99																												hffd																																																										0
+Hellforged Medusa's Gaze	0			100	16	361	17369		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Medusa's Gaze	99																												hffd																																																										0
+Hellforged Steelrend	0			100	16	361	19336		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Steelrend	99																												hffd																																																										0
+Hellforged Harlequin Crest	0			100	16	361	20647		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Harlequin Crest	99																												hffd																																																										0
+Hellforged Spirit Ward	0			100	16	361	21631		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Spirit Ward	99																												hffd																																																										0
+Hellforged Bonehew	0			100	16	361	22582		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Bonehew	99																												hffd																																																										0
+Hellforged Metalgrid	0			100	16	361	23500		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Metalgrid	99																												hffd																																																										0
+Hellforged Widowmaker	0			100	16	361	24352		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Widowmaker	99																												hffd																																																										0
+Hellforged Jade Talon	0			100	16	361	25172		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Jade Talon	99																												hffd																																																										0
+Hellforged Zeraes Resolve	0			100	16	361	25959		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Zeraes Resolve	99																												hffd																																																										0
+Hellforged Atma's Scarab	0			100	16	361	26713		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Atma's Scarab	99																												hffd																																																										0
+Hellforged Blackoak Shield	0			100	16	361	27433		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Blackoak Shield	99																												hffd																																																										0
+Hellforged Steel Carapace	0			100	16	361	28121		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Steel Carapace	99																												hffd																																																										0
+Hellforged Arachnid Mesh	0			100	16	361	28776		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Arachnid Mesh	99																												hffd																																																										0
+Hellforged Andariels Visage	0			100	16	361	29333		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Andariels Visage	99																												hffd																																																										0
+Hellforged Widespread	0			100	16	361	29922		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Widespread	99																												hffd																																																										0
+Hellforged Occultist	0			100	16	361	30413		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Occultist	99																												hffd																																																										0
+Hellforged Stone of Jordan	0			100	16	361	30937		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Stone of Jordan	99																												hffd																																																										0
+Hellforged Seraph's Hymn	0			100	16	361	31297		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Seraph's Hymn	99																												hffd																																																										0
+Hellforged Griffon's Eye	0			100	16	361	31591		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Griffon's Eye	99																												hffd																																																										0
+Hellforged Bul Kathos Band	0			100	16	361	31853		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Bul Kathos Band	99																												hffd																																																										0
+Hellforged Death's Web	0			100	16	361	32082		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Death's Web	99																												hffd																																																										0
+Hellforged Azurewrath	0			100	16	361	32278		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Azurewrath	99																												hffd																																																										0
+Hellforged The Rising Sun	0			100	16	361	32441		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged The Rising Sun	99																												hffd																																																										0
+Hellforged Mara's	0			100	16	361	32572		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Mara's	99																												hffd																																																										0
+Hellforged Darkforce Spawn	0			100	16	361	32670		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Darkforce Spawn	99																												hffd																																																										0
+Hellforged Rathmas Hand	0			100	16	361	32735		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Rathmas Hand	99																												hffd																																																										0
+Hellforged Tyrael's Might	0			100	16	361	32757		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Tyrael's Might	99																												hffd																																																										0
+Hellforged Headhunter	0			100	16	361	32766		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Headhunter	99																												hffd																																																										0
 																																																																																																								0
 OBTAIN TARGETED HELLFORGED UNIQUE																																																																																																								0
 																																																																																																								0
@@ -4704,7 +4704,7 @@ Ascend to Lich - Tier 4	1			100	18	296	35		2	Ascendancy Cairn	Ascendancy Tier 4	
 Ascend to Pathfinder - Tier 4	1			100	18	296	39		2	Ascendancy Cairn	Ascendancy Tier 4						useitem			100	cast-skill	100	680	35	1	hit-skill	100	680	20	1	static-modifier-display	100	1457	1	1	ascendancy-tier	100		1	1	levelreq	100		20	20																																																											0
 Ascend to Spirit Walker - Tier 4	1			100	18	296	43		2	Ascendancy Cairn	Ascendancy Tier 4						useitem			100	oskill	100	681	1	1											ascendancy-tier	100		1	1	levelreq	100		14	14																																																											0
 Ascend to Deadeye - Tier 4	1			100	18	296	47		2	Ascendancy Cairn	Ascendancy Tier 4						useitem			100	max-attack-projectiles	100		1	1	equipped-skill-hidden	100	684	1	1	static-modifier-display	100	1460	1	1	ascendancy-tier	100		1	1	levelreq	100		20	20																																																											0
-Ascend to Chieftain - Tier 4	1			100	18	296	51		2	Ascendancy Cairn	Ascendancy Tier 4						useitem			100	kill-skill	100	685	25	1	pierce-fire	100		20	20	static-modifier-display	100	1462	1	1	ascendancy-tier	100		1	1	levelreq	100		20	20																																																											0
+Ascend to Chieftain - Tier 4	1			100	18	296	51		2	Ascendancy Cairn	Ascendancy Tier 4						useitem			100	kill-skill	100	685	15	1	pierce-fire	100		20	20	static-modifier-display	100	1462	1	1	ascendancy-tier	100		1	1	levelreq	100		20	20																																																											0
 Ascend to Saboteur - Tier 4	1			100	18	296	55		2	Ascendancy Cairn	Ascendancy Tier 4						useitem			100	ascendancy-scaling	100		2	2	static-modifier-display	100	1992	1	1	max-traps	100		1	1	ascendancy-tier	100		1	1	levelreq	100		19	19																																																											0
 																																																																																																								0
 ASCENDANCY RESET																																																																																																								0
@@ -7530,10 +7530,18 @@ THE TAMING																																																																						
 Make the taming	1			100					3	Baals Pass	Baals Respite	Baals Grip					The Taming	99																																																																																						0
 																																																																																																								0
 DAMNATION MODE ONLY CHANGES																																																																																																								0
-Disenchant unique into chance shards [Reusable Skeleton Key]	1			100					2	rkey	armo,uni						useitem																													oros,qty=1																																																										0
-Disenchant unique into chance shards	1			100					2	armo,uni	key,qty=1						oros,qty=1																																																																																							0
-Disenchant unique into chance shards [Reusable Skeleton Key]	1			100					2	rkey	weap,uni						useitem																													oros,qty=1																																																										0
-Disenchant unique into chance shards	1			100					2	weap,uni	key,qty=1						oros,qty=1																																																																																							0
+Disenchant unique into chance shards [Reusable Skeleton Key] [bas]	1			100					2	rkey	armo,uni,bas						useitem																													oros,qty=1																																																										0
+Disenchant unique into chance shards [Reusable Skeleton Key] [exc]	1			100					2	rkey	armo,uni,exc						useitem																													oros,qty=2																																																										0
+Disenchant unique into chance shards [Reusable Skeleton Key] [eli]	1			100					2	rkey	armo,uni,eli						useitem																													oros,qty=3																																																										0
+Disenchant unique into chance shards [bas]	1			100					2	armo,uni,bas	key,qty=1						oros,qty=1																																																																																							0
+Disenchant unique into chance shards [exc]	1			100					2	armo,uni,exc	key,qty=1						oros,qty=2																																																																																							0
+Disenchant unique into chance shards [eli]	1			100					2	armo,uni,eli	key,qty=1						oros,qty=3																																																																																							0
+Disenchant unique into chance shards [Reusable Skeleton Key] [bas]	1			100					2	rkey	weap,uni,bas						useitem																													oros,qty=1																																																										0
+Disenchant unique into chance shards [Reusable Skeleton Key] [exc]	1			100					2	rkey	weap,uni,exc						useitem																													oros,qty=2																																																										0
+Disenchant unique into chance shards [Reusable Skeleton Key] [eli]	1			100					2	rkey	weap,uni,eli						useitem																													oros,qty=3																																																										0
+Disenchant unique into chance shards [bas]	1			100					2	weap,uni,bas	key,qty=1						oros,qty=1																																																																																							0
+Disenchant unique into chance shards [exc]	1			100					2	weap,uni,exc	key,qty=1						oros,qty=2																																																																																							0
+Disenchant unique into chance shards [eli]	1			100					2	weap,uni,eli	key,qty=1						oros,qty=3																																																																																							0
 Disenchant unique into chance shards [Reusable Skeleton Key]	1			100					2	rkey	amu,uni						useitem																													oros,qty=1																																																										0
 Disenchant unique into chance shards	1			100					2	amu,uni	key,qty=1						oros,qty=1																																																																																							0
 Disenchant unique into chance shards [Reusable Skeleton Key]	1			100					2	rkey	ring,uni						useitem																													oros,qty=1																																																										0
@@ -7838,60 +7846,61 @@ SHARD TO EXALTED ORB																																																												
 10 shard = 1 orb	1			100					1	exos,qty=10							exo,qty=1																																																																																							0
 																																																																																																								0
 KILN CURRENCY PRINTER																																																																																																								0
-Roll the dice	1	2		100	18	361	0		2	hffd	hfcr,qty=25						useitem				corruptnum	100		0	32766																					hfcr,qty=25																																																										0
+Roll the dice	1	2		100	18	361	0		2	hffd	hfcr,qty=50						useitem				corruptnum	100		0	32766																					hfcr,qty=50																																																										0
 																																																																																																								0
 OUTCOME																																																																																																								0
-Chisel of Avarice (20% chance)	1			100	16	361	6553		2	hffd	hfcr,qty=25						ccsa,qty=1																													hffd																																																										0
-Chisel of Procurement (18% chance)	1			100	16	361	11795		2	hffd	hfcr,qty=25						ccpr,qty=1																													hffd																																																										0
-Glyph of Corruption (13% chance)	1			100	16	361	16054		2	hffd	hfcr,qty=25						sccn,qty=1																													hffd																																																										0
-Glyph of Adversaries (12% chance)	1			100	16	361	19986		2	hffd	hfcr,qty=25						scas,qty=1																													hffd																																																										0
-Glyph of Nemeses (10% chance)	1			100	16	361	23262		2	hffd	hfcr,qty=25						scnm,qty=1																													hffd																																																										0
-Catalyst Shard (8% chance)	1			100	16	361	26030		2	hffd	hfcr,qty=25						iwss,qty=1																													hffd																																																										0
-Orb of Alchemy (6% chance)	1			100	16	361	27996		2	hffd	hfcr,qty=25						ooal,qty=1																													hffd																																																										0
-Chaos Orb (5% chance)	1			100	16	361	29634		2	hffd	hfcr,qty=25						csor,qty=1																													hffd																																																										0
-Demonic Cube (4% chance)	1			100	16	361	30944		2	hffd	hfcr,qty=25						imrn,qty=1																													hffd																																																										0
-Larzuk's Puzzlebox (3% chance)	1			100	16	361	31927		2	hffd	hfcr,qty=25						lbox,qty=1																													hffd																																																										0
-Orb of Extraction (2.95% chance)	1			100	16	361	32746		2	hffd	hfcr,qty=25						ooe,qty=1																													hffd																																																										0
-Eternal Orb (0,05% chance)	1			100	16	361	32766		2	hffd	hfcr,qty=25						etor,qty=1																													hffd																																																										0
+Chisel of Avarice (22.1% chance)	1			100	16	361	7241		2	hffd	hfcr,qty=50						ccsa,qty=1																													hffd																																																										0
+Chisel of Procurement (16% chance)	1			100	16	361	12483		2	hffd	hfcr,qty=50						ccpr,qty=1																													hffd																																																										0
+Glyph of Corruption (13% chance)	1			100	16	361	16742		2	hffd	hfcr,qty=50						sccn,qty=1																													hffd																																																										0
+Glyph of Adversaries (12% chance)	1			100	16	361	20674		2	hffd	hfcr,qty=50						scas,qty=1																													hffd																																																										0
+Glyph of Nemeses (10% chance)	1			100	16	361	23950		2	hffd	hfcr,qty=50						scnm,qty=1																													hffd																																																										0
+Catalyst Shard (8.448% chance)	1			100	16	361	26718		2	hffd	hfcr,qty=50						iwss,qty=1																													hffd																																																										0
+Orb of Alchemy (6% chance)	1			100	16	361	28684		2	hffd	hfcr,qty=50						ooal,qty=1																													hffd																																																										0
+Chaos Orb (5% chance)	1			100	16	361	30322		2	hffd	hfcr,qty=50						csor,qty=1																													hffd																																																										0
+Demonic Cube (4% chance)	1			100	16	361	31632		2	hffd	hfcr,qty=50						imrn,qty=1																													hffd																																																										0
+Larzuk's Puzzlebox (3% chance)	1			100	16	361	32615		2	hffd	hfcr,qty=50						lbox,qty=1																													hffd																																																										0
+Orb of Extraction (0.4% chance)	1			100	16	361	32746		2	hffd	hfcr,qty=50						ooe,qty=1																													hffd																																																										0
+No reward (furnace returned; Cindersouls consumed)	0			100	16	361	32746		2	hffd	hfcr,qty=50						hffd																																																																																							0
+Eternal Orb (0.061% chance)	1			100	16	361	32766		2	hffd	hfcr,qty=50						etor,qty=1																													hffd																																																										0
 																																																																																																								0
 CREATE ARMAGEDDON BLADE																																																																																																								0
 Create Armageddon Blade	1			100					3	7cr	oroc,qty=5	ncoi,qty=1					Arma Blade Replica	99																																																																																						0
 																																																																																																								0
 OBTAIN RANDOM HELLFORGED UNIQUE																																																																																																								0
-Roll the dice	1	2		100	18	361	0		3	hffd	oroc,qty=1	hfcr,qty=35					useitem				corruptnum	100		0	32766																					oroc,qty=1																													hfcr,qty=35																													0
+Roll the dice	0	2		100	18	361	0		3	hffd	oroc,qty=1	hfcr,qty=35					useitem				corruptnum	100		0	32766																					oroc,qty=1																													hfcr,qty=35																													0
 																																																																																																								0
 OUTCOME																																																																																																								0
-Hellforged Herald of Zakarum	1			100	16	361	6554		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Herald of Zakarum	99																												hffd																																																										0
-Hellforged Hellslayer	1			100	16	361	11470		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Hellslayer	99																												hffd																																																										0
-Hellforged Crackleshot	1			100	16	361	14747		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Crackleshot	99																												hffd																																																										0
-Hellforged Medusa's Gaze	1			100	16	361	17369		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Medusa's Gaze	99																												hffd																																																										0
-Hellforged Steelrend	1			100	16	361	19336		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Steelrend	99																												hffd																																																										0
-Hellforged Harlequin Crest	1			100	16	361	20647		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Harlequin Crest	99																												hffd																																																										0
-Hellforged Spirit Ward	1			100	16	361	21631		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Spirit Ward	99																												hffd																																																										0
-Hellforged Bonehew	1			100	16	361	22582		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Bonehew	99																												hffd																																																										0
-Hellforged Metalgrid	1			100	16	361	23500		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Metalgrid	99																												hffd																																																										0
-Hellforged Widowmaker	1			100	16	361	24352		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Widowmaker	99																												hffd																																																										0
-Hellforged Jade Talon	1			100	16	361	25172		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Jade Talon	99																												hffd																																																										0
-Hellforged Zeraes Resolve	1			100	16	361	25959		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Zeraes Resolve	99																												hffd																																																										0
-Hellforged Atma's Scarab	1			100	16	361	26713		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Atma's Scarab	99																												hffd																																																										0
-Hellforged Blackoak Shield	1			100	16	361	27433		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Blackoak Shield	99																												hffd																																																										0
-Hellforged Steel Carapace	1			100	16	361	28121		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Steel Carapace	99																												hffd																																																										0
-Hellforged Arachnid Mesh	1			100	16	361	28776		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Arachnid Mesh	99																												hffd																																																										0
-Hellforged Andariels Visage	1			100	16	361	29333		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Andariels Visage	99																												hffd																																																										0
-Hellforged Widespread	1			100	16	361	29922		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Widespread	99																												hffd																																																										0
-Hellforged Occultist	1			100	16	361	30413		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Occultist	99																												hffd																																																										0
-Hellforged Stone of Jordan	1			100	16	361	30937		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Stone of Jordan	99																												hffd																																																										0
-Hellforged Seraph's Hymn	1			100	16	361	31297		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Seraph's Hymn	99																												hffd																																																										0
-Hellforged Griffon's Eye	1			100	16	361	31591		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Griffon's Eye	99																												hffd																																																										0
-Hellforged Bul Kathos Band	1			100	16	361	31853		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Bul Kathos Band	99																												hffd																																																										0
-Hellforged Death's Web	1			100	16	361	32082		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Death's Web	99																												hffd																																																										0
-Hellforged Azurewrath	1			100	16	361	32278		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Azurewrath	99																												hffd																																																										0
-Hellforged The Rising Sun	1			100	16	361	32441		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged The Rising Sun	99																												hffd																																																										0
-Hellforged Mara's	1			100	16	361	32572		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Mara's	99																												hffd																																																										0
-Hellforged Darkforce Spawn	1			100	16	361	32670		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Darkforce Spawn	99																												hffd																																																										0
-Hellforged Rathmas Hand	1			100	16	361	32735		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Rathmas Hand	99																												hffd																																																										0
-Hellforged Tyrael's Might	1			100	16	361	32757		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Tyrael's Might	99																												hffd																																																										0
-Hellforged Headhunter	1			100	16	361	32766		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Headhunter	99																																																																																						0
+Hellforged Herald of Zakarum	0			100	16	361	6554		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Herald of Zakarum	99																												hffd																																																										0
+Hellforged Hellslayer	0			100	16	361	11470		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Hellslayer	99																												hffd																																																										0
+Hellforged Crackleshot	0			100	16	361	14747		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Crackleshot	99																												hffd																																																										0
+Hellforged Medusa's Gaze	0			100	16	361	17369		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Medusa's Gaze	99																												hffd																																																										0
+Hellforged Steelrend	0			100	16	361	19336		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Steelrend	99																												hffd																																																										0
+Hellforged Harlequin Crest	0			100	16	361	20647		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Harlequin Crest	99																												hffd																																																										0
+Hellforged Spirit Ward	0			100	16	361	21631		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Spirit Ward	99																												hffd																																																										0
+Hellforged Bonehew	0			100	16	361	22582		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Bonehew	99																												hffd																																																										0
+Hellforged Metalgrid	0			100	16	361	23500		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Metalgrid	99																												hffd																																																										0
+Hellforged Widowmaker	0			100	16	361	24352		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Widowmaker	99																												hffd																																																										0
+Hellforged Jade Talon	0			100	16	361	25172		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Jade Talon	99																												hffd																																																										0
+Hellforged Zeraes Resolve	0			100	16	361	25959		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Zeraes Resolve	99																												hffd																																																										0
+Hellforged Atma's Scarab	0			100	16	361	26713		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Atma's Scarab	99																												hffd																																																										0
+Hellforged Blackoak Shield	0			100	16	361	27433		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Blackoak Shield	99																												hffd																																																										0
+Hellforged Steel Carapace	0			100	16	361	28121		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Steel Carapace	99																												hffd																																																										0
+Hellforged Arachnid Mesh	0			100	16	361	28776		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Arachnid Mesh	99																												hffd																																																										0
+Hellforged Andariels Visage	0			100	16	361	29333		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Andariels Visage	99																												hffd																																																										0
+Hellforged Widespread	0			100	16	361	29922		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Widespread	99																												hffd																																																										0
+Hellforged Occultist	0			100	16	361	30413		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Occultist	99																												hffd																																																										0
+Hellforged Stone of Jordan	0			100	16	361	30937		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Stone of Jordan	99																												hffd																																																										0
+Hellforged Seraph's Hymn	0			100	16	361	31297		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Seraph's Hymn	99																												hffd																																																										0
+Hellforged Griffon's Eye	0			100	16	361	31591		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Griffon's Eye	99																												hffd																																																										0
+Hellforged Bul Kathos Band	0			100	16	361	31853		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Bul Kathos Band	99																												hffd																																																										0
+Hellforged Death's Web	0			100	16	361	32082		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Death's Web	99																												hffd																																																										0
+Hellforged Azurewrath	0			100	16	361	32278		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Azurewrath	99																												hffd																																																										0
+Hellforged The Rising Sun	0			100	16	361	32441		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged The Rising Sun	99																												hffd																																																										0
+Hellforged Mara's	0			100	16	361	32572		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Mara's	99																												hffd																																																										0
+Hellforged Darkforce Spawn	0			100	16	361	32670		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Darkforce Spawn	99																												hffd																																																										0
+Hellforged Rathmas Hand	0			100	16	361	32735		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Rathmas Hand	99																												hffd																																																										0
+Hellforged Tyrael's Might	0			100	16	361	32757		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Tyrael's Might	99																												hffd																																																										0
+Hellforged Headhunter	0			100	16	361	32766		3	hffd	oroc,qty=1	hfcr,qty=35					Hellforged Headhunter	99																																																																																						0
 																																																																																																								0
 OBTAIN TARGETED HELLFORGED UNIQUE																																																																																																								0
 																																																																																																								0
