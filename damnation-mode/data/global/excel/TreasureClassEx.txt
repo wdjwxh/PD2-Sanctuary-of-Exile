@@ -1777,9 +1777,9 @@ Horadric TP Book H				5000	167																											0
 Lillith Mirror N				150000	167																											0
 Lillith Mirror NM				75000	167																											0
 Lillith Mirror H				50000	167																											0
-Vial of Lightsong N				22500	167																											0
-Vial of Lightsong NM				11250	167																											0
-Vial of Lightsong H				7500	167																											0
+Vial of Lightsong N				45000	167																											0
+Vial of Lightsong NM				22500	167																											0
+Vial of Lightsong H				15000	167																											0
 Corrupted Zone WSS				75																												0
 Unique Map Monsters				7500	10																											0
 Unique Map MapBoss				4500																												0
