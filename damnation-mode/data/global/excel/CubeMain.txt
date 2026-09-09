@@ -7550,8 +7550,12 @@ Disenchant unique into chance shards [Reusable Skeleton Key]	1			100					3	rkey	
 Disenchant unique into chance shards	1			100					3	mjw,uni	key,qty=1	ncoi,qty=1					oros,qty=1																																																																																							0
 Disenchant unique into chance shards [Reusable Skeleton Key]	1			100					3	rkey	jew,uni	ncoi,qty=1					useitem																													oros,qty=1																																																										0
 Disenchant unique into chance shards	1			100					3	jew,uni	key,qty=1	ncoi,qty=1					oros,qty=1																																																																																							0
-Disenchant unique into chance shards [Reusable Skeleton Key]	1			100					2	rkey	misl,uni						useitem																													oros,qty=1																																																										0
-Disenchant unique into chance shards	1			100					2	misl,uni	key,qty=1						oros,qty=1																																																																																							0
+Disenchant unique into chance shards [Reusable Skeleton Key] [bas]	1			100					2	rkey	misl,uni,bas						useitem																													oros,qty=1																																																										0
+Disenchant unique into chance shards [Reusable Skeleton Key] [exc]	1			100					2	rkey	misl,uni,exc						useitem																													oros,qty=2																																																										0
+Disenchant unique into chance shards [Reusable Skeleton Key] [eli]	1			100					2	rkey	misl,uni,eli						useitem																													oros,qty=3																																																										0
+Disenchant unique into chance shards [bas]	1			100					2	misl,uni,bas	key,qty=1						oros,qty=1																																																																																							0
+Disenchant unique into chance shards [exc]	1			100					2	misl,uni,exc	key,qty=1						oros,qty=2																																																																																							0
+Disenchant unique into chance shards [eli]	1			100					2	misl,uni,eli	key,qty=1						oros,qty=3																																																																																							0
 Disenchant unique into chance shards [Reusable Skeleton Key]	1			100					2	rkey	cm4,uni						useitem																													oros,qty=1																																																										0
 Disenchant unique into chance shards	1			100					2	cm4,uni	key,qty=1						oros,qty=1																																																																																							0
 Disenchant unique into chance shards [Reusable Skeleton Key]	1			100					2	rkey	cm3,uni						useitem																													oros,qty=1																																																										0
@@ -7561,10 +7565,18 @@ Disenchant unique into chance shards	1			100					2	cm2,uni	key,qty=1						oros,q
 Disenchant unique into chance shards [Reusable Skeleton Key]	1			100					2	rkey	cm1,uni						useitem																													oros,qty=1																																																										0
 Disenchant unique into chance shards	1			100					2	cm1,uni	key,qty=1						oros,qty=1																																																																																							0
 																																																																																																								0
-Disenchant set into exalted shards [Reusable Skeleton Key]	1			100					2	rkey	armo,set						useitem																													exos,qty=1																																																										0
-Disenchant set into exalted shards	1			100					2	armo,set	key,qty=1						exos,qty=1																																																																																							0
-Disenchant set into exalted shards [Reusable Skeleton Key]	1			100					2	rkey	weap,set						useitem																													exos,qty=1																																																										0
-Disenchant set into exalted shards	1			100					2	weap,set	key,qty=1						exos,qty=1																																																																																							0
+Disenchant set into exalted shards [Reusable Skeleton Key] [bas]	1			100					2	rkey	armo,set,bas						useitem																													exos,qty=1																																																										0
+Disenchant set into exalted shards [Reusable Skeleton Key] [exc]	1			100					2	rkey	armo,set,exc						useitem																													exos,qty=2																																																										0
+Disenchant set into exalted shards [Reusable Skeleton Key] [eli]	1			100					2	rkey	armo,set,eli						useitem																													exos,qty=3																																																										0
+Disenchant set into exalted shards [bas]	1			100					2	armo,set,bas	key,qty=1						exos,qty=1																																																																																							0
+Disenchant set into exalted shards [exc]	1			100					2	armo,set,exc	key,qty=1						exos,qty=2																																																																																							0
+Disenchant set into exalted shards [eli]	1			100					2	armo,set,eli	key,qty=1						exos,qty=3																																																																																							0
+Disenchant set into exalted shards [Reusable Skeleton Key] [bas]	1			100					2	rkey	weap,set,bas						useitem																													exos,qty=1																																																										0
+Disenchant set into exalted shards [Reusable Skeleton Key] [exc]	1			100					2	rkey	weap,set,exc						useitem																													exos,qty=2																																																										0
+Disenchant set into exalted shards [Reusable Skeleton Key] [eli]	1			100					2	rkey	weap,set,eli						useitem																													exos,qty=3																																																										0
+Disenchant set into exalted shards [bas]	1			100					2	weap,set,bas	key,qty=1						exos,qty=1																																																																																							0
+Disenchant set into exalted shards [exc]	1			100					2	weap,set,exc	key,qty=1						exos,qty=2																																																																																							0
+Disenchant set into exalted shards [eli]	1			100					2	weap,set,eli	key,qty=1						exos,qty=3																																																																																							0
 Disenchant set into exalted shards [Reusable Skeleton Key]	1			100					2	rkey	amu,set						useitem																													exos,qty=1																																																										0
 Disenchant set into exalted shards	1			100					2	amu,set	key,qty=1						exos,qty=1																																																																																							0
 Disenchant set into exalted shards [Reusable Skeleton Key]	1			100					2	rkey	ring,set						useitem																													exos,qty=1																																																										0
