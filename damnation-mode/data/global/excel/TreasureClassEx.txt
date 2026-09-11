@@ -289,8 +289,8 @@ Act 4 (H) Magic B	4	80	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 5 (H) Magic A	4	82	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 5 (H) Magic B	4	83	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 5 (H) Magic C	4	85	1						tsc	2	isc	4	mp4	2	mp5	4																0
-Act 1 Good	5	0	1					4	Jewelry A	60	Chipped Gem	48	wss	4	New orbs	2																0
-Act 2 Good	5	12	1					5	Jewelry B	80	Chipped Gem	44	Flawed Gem	16	wss	4	New orbs	3														0
+Act 1 Good	5	0	1					4	Jewelry A	60	Chipped Gem	48	wss	4	New orbs	2	Fate Card Normal	8														0
+Act 2 Good	5	12	1					5	Jewelry B	80	Chipped Gem	44	Flawed Gem	16	wss	4	New orbs	3	Fate Card Normal	12												0
 Act 3 Good	5	18	1					14	Jewelry C	80	Chipped Gem	28	Flawed Gem	32	wss	4	Runes 3	12	Runes 4	12	Fate Card Normal	16	New orbs	4								0
 Act 4 Good	5	26	1					28	Jewelry C	100	Normal Gem	22	Flawless Gem	56	Runes 5	28	Runes 6	14	wss	8	Fate Card Normal	20	New orbs	4								0
 Act 5 Good	5	32	1					30	Jewelry C	100	Normal Gem	22	Flawless Gem	56	Runes 7	28	New orbs	5	wss	8	Fate Card Normal	20										0
